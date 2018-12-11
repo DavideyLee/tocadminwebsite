@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5811e63e-625d-4601-97ed-ea0d1768ed6f" name="Default Changelist" comment="modify config.py for mysql and redis">
-      <change beforePath="$PROJECT_DIR$/apps/common/templates/common/basic_setting.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/templates/common/basic_setting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/common/templates/common/email_setting.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/templates/common/email_setting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/common/templates/common/ldap_setting.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/templates/common/ldap_setting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/common/templates/common/security_setting.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/templates/common/security_setting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/common/templates/common/terminal_setting.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/templates/common/terminal_setting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/templates/_nav_user.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/_nav_user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/templates/_user_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/_user_profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/beat.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/beat.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/celery.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/celery.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/gunicorn.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gunicorn.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/jumpserver.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/jumpserver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,16 +20,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/common/templates/common/basic_setting.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="24" selection-end-column="37" />
+            <state relative-caret-position="177">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/common/templates/common/command_storage_create.html">
+        <entry file="file://$PROJECT_DIR$/apps/templates/_header_bar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-932" />
+            <state relative-caret-position="-148">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/templates/_nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/templates/_nav_user.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/templates/_user_profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -69,7 +96,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/common/templates/common/terminal_setting.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="222">
@@ -112,6 +139,8 @@
         <option value="$PROJECT_DIR$/apps/common/templates/common/ldap_setting.html" />
         <option value="$PROJECT_DIR$/apps/common/templates/common/security_setting.html" />
         <option value="$PROJECT_DIR$/apps/common/templates/common/terminal_setting.html" />
+        <option value="$PROJECT_DIR$/apps/templates/_nav_user.html" />
+        <option value="$PROJECT_DIR$/apps/templates/_user_profile.html" />
       </list>
     </option>
   </component>
@@ -142,22 +171,7 @@
               <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
@@ -205,7 +219,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544487282008</updated>
-      <workItem from="1544487283893" duration="5449000" />
+      <workItem from="1544487283893" duration="6370000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1544487374435</created>
@@ -232,20 +246,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5449000" />
+    <option name="totallyTimeSpent" value="6370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1260" height="715" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.2680578" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2680578" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -274,13 +287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="92" selection-start-line="1" selection-start-column="92" selection-end-line="1" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/templates/_nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -329,13 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/templates/_header_bar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/templates/_left_side_bar.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -350,13 +349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/common/templates/common/basic_setting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="24" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -395,6 +387,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/common/templates/common/basic_setting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/_head_css_js.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/_header_bar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/_nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/_nav_user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/_user_profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
         </state>
       </provider>
     </entry>

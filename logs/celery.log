@@ -650,3 +650,15 @@ Task terminal.tasks.delete_terminal_status_period[13a78aba-2098-4450-8131-e05083
 Task terminal.tasks.clean_orphan_session[476887e9-8d04-4bdf-9f7e-aa72327427c9] succeeded in 0.1682064590004302s: None
 Scaling down 1 processes.
 basic.qos: prefetch_count->16
+Received task: users.tasks.write_login_log_async[a53ddd09-c9a4-4059-b018-5cb0237a392b]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('users.tasks.write_login_log_async', 'a53ddd09-c9a4-4059-b018-5cb0237a392b', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': 'a53ddd09-c9a4-4059-b018-5cb0237a392b', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'a53ddd09-c9a4-4059-b018-5cb0237a392b', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen2026@localhost', 'reply_to': 'a590ae63-4a65-39a7-9f4a-ee9a3277d626', 'correlation_id': 'a53ddd09-c9a4-4059-b018-5cb0237a392b', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[a53ddd09-c9a4-4059-b018-5cb0237a392b] pid:2051
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[a53ddd09-c9a4-4059-b018-5cb0237a392b] succeeded in 0.24049806500079285s: None
+Received task: users.tasks.write_login_log_async[16c60b2f-d452-4ceb-8ee6-3ec75a2ae5c0]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('users.tasks.write_login_log_async', '16c60b2f-d452-4ceb-8ee6-3ec75a2ae5c0', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': '16c60b2f-d452-4ceb-8ee6-3ec75a2ae5c0', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '16c60b2f-d452-4ceb-8ee6-3ec75a2ae5c0', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen2026@localhost', 'reply_to': 'a590ae63-4a65-39a7-9f4a-ee9a3277d626', 'correlation_id': '16c60b2f-d452-4ceb-8ee6-3ec75a2ae5c0', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[16c60b2f-d452-4ceb-8ee6-3ec75a2ae5c0] pid:2050
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[16c60b2f-d452-4ceb-8ee6-3ec75a2ae5c0] succeeded in 0.2623260199998185s: None

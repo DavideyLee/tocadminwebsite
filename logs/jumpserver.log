@@ -161,3 +161,6 @@
 2018-12-11 10:26:20 [tasks DEBUG] Period task disabled, update assets hardware info pass
 2018-12-11 10:26:20 [tasks DEBUG] Period task disabled, test admin user connectability pass
 2018-12-11 10:26:20 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-11 10:29:15 [log WARNING] Not Found: /coco/elfinder/sftp/
+2018-12-11 10:56:41 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:56:41 [signals_handler DEBUG]   - fresh all settings
