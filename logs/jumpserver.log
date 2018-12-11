@@ -119,3 +119,45 @@
 2018-12-11 10:07:32 [tasks DEBUG] Period task disabled, test system user connectability pass
 2018-12-11 10:12:26 [signals_handler DEBUG] Receive setting item change
 2018-12-11 10:12:26 [signals_handler DEBUG]   - refresh setting: TERMINAL_REPLAY_STORAGE
+2018-12-11 10:24:19 [signal_handler DEBUG] App shutdown signal recv
+2018-12-11 10:24:19 [signal_handler DEBUG] Clean need cleaned period tasks: []
+2018-12-11 10:24:25 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:24:25 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:24:29 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:24:29 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:24:34 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:24:34 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:24:37 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:24:37 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:24:37 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:24:37 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:24:40 [signal_handler DEBUG] App ready signal recv
+2018-12-11 10:24:40 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-11 10:24:41 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-11 10:24:41 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-11 10:24:41 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-11 10:25:56 [signal_handler DEBUG] App shutdown signal recv
+2018-12-11 10:25:56 [signal_handler DEBUG] Clean need cleaned period tasks: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-11 10:26:02 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:02 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:06 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:06 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:10 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:10 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:17 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:26:17 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:26:19 [signal_handler DEBUG] App ready signal recv
+2018-12-11 10:26:19 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-11 10:26:20 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-11 10:26:20 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-11 10:26:20 [tasks DEBUG] Period task disabled, test system user connectability pass
