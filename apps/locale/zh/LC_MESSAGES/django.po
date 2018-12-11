@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jumpserver 0.3.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-11 09:37+0800\n"
+"POT-Creation-Date: 2018-12-11 09:58+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: ibuler <ibuler@qq.com>\n"
 "Language-Team: Jumpserver team<ibuler@qq.com>\n"
@@ -191,7 +191,7 @@ msgstr "名称"
 #: apps/users/forms.py:15 apps/users/forms.py:33
 #: apps/users/models/authentication.py:72 apps/users/models/user.py:51
 #: apps/users/templates/users/_select_user_modal.html:14
-#: apps/users/templates/users/login.html:62
+#: apps/users/templates/users/login.html:65
 #: apps/users/templates/users/user_detail.html:67
 #: apps/users/templates/users/user_list.html:24
 #: apps/users/templates/users/user_profile.html:47
@@ -204,7 +204,7 @@ msgstr "密码或密钥密码"
 
 #: apps/assets/forms/user.py:26 apps/assets/models/base.py:24
 #: apps/common/forms.py:107 apps/users/forms.py:17 apps/users/forms.py:35
-#: apps/users/forms.py:47 apps/users/templates/users/login.html:65
+#: apps/users/forms.py:47 apps/users/templates/users/login.html:68
 #: apps/users/templates/users/reset_password.html:53
 #: apps/users/templates/users/user_create.html:10
 #: apps/users/templates/users/user_password_authentication.html:18
@@ -2620,8 +2620,8 @@ msgstr "用户页面"
 msgid "Logout"
 msgstr "注销登录"
 
-#: apps/templates/_header_bar.html:40 apps/users/templates/users/login.html:46
-#: apps/users/templates/users/login.html:70
+#: apps/templates/_header_bar.html:40 apps/users/templates/users/login.html:49
+#: apps/users/templates/users/login.html:73
 msgid "Login"
 msgstr "登录"
 
@@ -3108,7 +3108,7 @@ msgid ""
 "You should use your ssh client tools connect terminal: {} <br /> <br />{}"
 msgstr "你可以使用ssh客户端工具连接终端"
 
-#: apps/users/api/auth.py:40 apps/users/templates/users/login.html:52
+#: apps/users/api/auth.py:40 apps/users/templates/users/login.html:55
 msgid "Log in frequently and try again later"
 msgstr "登录频繁, 稍后重试"
 
@@ -3474,7 +3474,7 @@ msgstr "获取更多信息"
 
 #: apps/users/templates/users/forgot_password.html:11
 #: apps/users/templates/users/forgot_password.html:27
-#: apps/users/templates/users/login.html:81
+#: apps/users/templates/users/login.html:84
 msgid "Forgot password"
 msgstr "忘记密码"
 
@@ -3483,12 +3483,51 @@ msgid "Input your email, that will send a mail to your"
 msgstr "输入您的邮箱, 将会发一封重置邮件到您的邮箱中"
 
 #: apps/users/templates/users/login.html:27
+msgid "Welcome to the TOC Admin Website"
+msgstr "欢迎来到TOC管理系统"
+
+#: apps/users/templates/users/login.html:29
+msgid "De Run, Thai Harmony, Great Things, More Small Things."
+msgstr "德润其身，泰和共隆，做大事更要做小事"
+
+#: apps/users/templates/users/login.html:32
+msgid ""
+"The best management is communication, full communication, persuasion and "
+"tolerance of dissent."
+msgstr "最好的管理是沟通，充分沟通，以理服人，包容异见"
+
+#: apps/users/templates/users/login.html:35
+msgid "Do your duty, do your best, do your best."
+msgstr "尽职尽责，尽心尽力，尽善尽美"
+
+#: apps/users/templates/users/login.html:38
+msgid ""
+"Employees believe that creating maximum value for enterprises is their "
+"professional glory."
+msgstr "员工以为企业创造最大价值为职业荣耀"
+
+#: apps/users/templates/users/login.html:41
+#: apps/users/templates/users/login_otp.html:38
+msgid "Changes the world, starting with a little bit."
+msgstr "改变世界，从一点点开始。"
+
+#: apps/users/templates/users/login.html:58
+msgid "Captcha invalid"
+msgstr "验证码错误"
+
+#: apps/users/templates/users/login.html:90
+msgid "More login options"
+msgstr "更多登录方式"
+
+#: apps/users/templates/users/login.html:94
+msgid "Keycloak"
+msgstr ""
+
 #: apps/users/templates/users/login_otp.html:27
 #: apps/users/templates/users/reset_password.html:25
 msgid "Welcome to the Jumpserver open source fortress"
 msgstr "欢迎使用Jumpserver开源堡垒机"
 
-#: apps/users/templates/users/login.html:29
 #: apps/users/templates/users/login_otp.html:29
 msgid ""
 "The world's first fully open source fortress, using the GNU GPL v2.0 open "
@@ -3498,7 +3537,6 @@ msgstr ""
 "全球首款完全开源的堡垒机，使用GNU GPL v2.0开源协议，是符合 4A 的专业运维审计"
 "系统。"
 
-#: apps/users/templates/users/login.html:32
 #: apps/users/templates/users/login_otp.html:32
 msgid ""
 "Developed using Python/Django, following the Web 2.0 specification and "
@@ -3508,7 +3546,6 @@ msgstr ""
 "使用Python / Django 进行开发，遵循 Web 2.0 规范，配备了业界领先的 Web "
 "Terminal 解决方案，交互界面美观、用户体验好。"
 
-#: apps/users/templates/users/login.html:35
 #: apps/users/templates/users/login_otp.html:35
 msgid ""
 "Distributed architecture is adopted to support multi-machine room deployment "
@@ -3518,23 +3555,6 @@ msgid ""
 msgstr ""
 "采纳分布式架构，支持多机房跨区域部署，中心节点提供 API，各机房部署登录节点，"
 "可横向扩展、无并发访问限制。"
-
-#: apps/users/templates/users/login.html:38
-#: apps/users/templates/users/login_otp.html:38
-msgid "Changes the world, starting with a little bit."
-msgstr "改变世界，从一点点开始。"
-
-#: apps/users/templates/users/login.html:55
-msgid "Captcha invalid"
-msgstr "验证码错误"
-
-#: apps/users/templates/users/login.html:87
-msgid "More login options"
-msgstr "更多登录方式"
-
-#: apps/users/templates/users/login.html:91
-msgid "Keycloak"
-msgstr ""
 
 #: apps/users/templates/users/login_otp.html:46
 #: apps/users/templates/users/user_detail.html:91

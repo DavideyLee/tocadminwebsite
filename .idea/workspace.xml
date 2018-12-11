@@ -3,14 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="5811e63e-625d-4601-97ed-ea0d1768ed6f" name="Default Changelist" comment="modify config.py for mysql and redis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.mo" beforeDir="false" afterPath="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.mo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/templates/_header_bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/_header_bar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/templates/flash_message_standalone.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/flash_message_standalone.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/templates/users/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/beat.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/beat.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/celery.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/celery.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/gunicorn.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gunicorn.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/jumpserver.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/jumpserver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/beat.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/beat.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/celery.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/celery.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/gunicorn.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/gunicorn.pid" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,17 +42,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="2597" lean-forward="true" selection-start-line="2597" selection-end-line="2597" />
+            <state relative-caret-position="134">
+              <caret line="1957" column="12" selection-start-line="1957" selection-start-column="10" selection-end-line="1957" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state>
+              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -55,8 +60,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/users/templates/users/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="63">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/users/urls/views_urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-308">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/users/views/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="199" column="51" lean-forward="true" selection-start-line="199" selection-start-column="51" selection-end-line="199" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/templates/flash_message_standalone.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -69,6 +104,10 @@
       <find>TaiLon</find>
       <find>events</find>
       <find>welcom</find>
+      <find>login.html</find>
+      <find>改变世界</find>
+      <find>apps/users/templates/users/login.html</find>
+      <find>登录</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,9 +121,10 @@
         <option value="$PROJECT_DIR$/apps/templates/_copyright.html" />
         <option value="$PROJECT_DIR$/apps/templates/_nav.html" />
         <option value="$PROJECT_DIR$/apps/templates/_header_bar.html" />
+        <option value="$PROJECT_DIR$/apps/templates/base.html" />
         <option value="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po" />
         <option value="$PROJECT_DIR$/apps/users/templates/users/login.html" />
-        <option value="$PROJECT_DIR$/apps/templates/base.html" />
+        <option value="$PROJECT_DIR$/apps/templates/flash_message_standalone.html" />
       </list>
     </option>
   </component>
@@ -115,13 +155,6 @@
               <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -141,6 +174,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -169,7 +203,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544487282008</updated>
-      <workItem from="1544487283893" duration="3253000" />
+      <workItem from="1544487283893" duration="5240000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1544487374435</created>
@@ -196,11 +230,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3253000" />
+    <option name="totallyTimeSpent" value="5240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1260" height="715" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
@@ -272,24 +305,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="2597" lean-forward="true" selection-start-line="2597" selection-end-line="2597" />
+        <state relative-caret-position="134">
+          <caret line="1957" column="12" selection-start-line="1957" selection-start-column="10" selection-end-line="1957" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/users/templates/users/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="63">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/apps/users/views/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="73">
+          <caret line="199" column="51" lean-forward="true" selection-start-line="199" selection-start-column="51" selection-end-line="199" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/urls/views_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/flash_message_standalone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
         </state>
       </provider>
     </entry>

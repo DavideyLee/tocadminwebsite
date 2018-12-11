@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> TOC Admin Website </title>
-    <link rel="shortcut icon" href="{% static "img/facio.ico" %}" type="image/x-icon">
+    <!--<link rel="shortcut icon" href="{% static "img/facio.ico" %}" type="image/x-icon">-->
     {% include '_head_css_js.html' %}
     <link href="{% static "css/jumpserver.css" %}" rel="stylesheet">
     <script type="text/javascript" src="{% url 'javascript-catalog' %}"></script>
@@ -24,15 +24,18 @@
         <div class="row">
             <div class="col-md-6">
 
-                <h2 class="font-bold">{% trans 'Welcome to the Jumpserver open source fortress' %}</h2>
+                <h2 class="font-bold">{% trans 'Welcome to the TOC Admin Website' %}</h2>
                 <p>
-                    {% trans "The world's first fully open source fortress, using the GNU GPL v2.0 open source protocol, is a professional operation and maintenance audit system in compliance with 4A." %}
+                    {% trans "De Run, Thai Harmony, Great Things, More Small Things." %}
                 </p>
                 <p>
-                    {% trans "Developed using Python/Django, following the Web 2.0 specification and equipped with industry-leading Web Terminal solutions, with beautiful interactive interface and good user experience." %}
+                    {% trans "The best management is communication, full communication, persuasion and tolerance of dissent." %}
                 </p>
                 <p>
-                    {% trans 'Distributed architecture is adopted to support multi-machine room deployment across regions, central node provides API, and each machine room deploys login node, which can be extended horizontally and without concurrent access restrictions.' %}
+                    {% trans 'Do your duty, do your best, do your best.' %}
+                </p>
+                <p>
+                    {% trans 'Employees believe that creating maximum value for enterprises is their professional glory.' %}
                 </p>
                 <p>
                     {% trans  "Changes the world, starting with a little bit." %}
@@ -42,7 +45,7 @@
             <div class="col-md-6">
                 <div class="ibox-content">
                     <div>
-                        <img src="{% static 'img/logo.png' %}" width="60" height="60">
+                        <!--img src="{% static 'img/logo.png' %}" width="60" height="60">-->
                         <span class="font-bold text-center" style="font-size: 24px; font-family: inherit; margin-left: 20px">{% trans 'Login' %}</span>
                     </div>
                     <form class="m-t" role="form" method="post" action="">

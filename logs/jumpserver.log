@@ -88,3 +88,34 @@
 2018-12-11 09:41:07 [tasks DEBUG] Period task disabled, test admin user connectability pass
 2018-12-11 09:41:07 [tasks DEBUG] Period task disabled, test system user connectability pass
 2018-12-11 09:41:19 [log WARNING] Not Found: /favicon.ico
+2018-12-11 09:58:12 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:58:12 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:01 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:01 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:06 [signal_handler DEBUG] App shutdown signal recv
+2018-12-11 10:07:06 [signal_handler DEBUG] Clean need cleaned period tasks: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period]
+2018-12-11 10:07:12 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:12 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:15 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:15 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:20 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:20 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:26 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:26 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:26 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:26 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:26 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:26 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:28 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 10:07:28 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 10:07:31 [signal_handler DEBUG] App ready signal recv
+2018-12-11 10:07:31 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-11 10:07:32 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-11 10:07:32 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-11 10:07:32 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-11 10:12:26 [signals_handler DEBUG] Receive setting item change
+2018-12-11 10:12:26 [signals_handler DEBUG]   - refresh setting: TERMINAL_REPLAY_STORAGE
