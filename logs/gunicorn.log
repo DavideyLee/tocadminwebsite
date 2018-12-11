@@ -736,3 +736,5 @@
 127.0.0.1 [11/Dec/2018:10:49:24 +0800] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
 127.0.0.1 [11/Dec/2018:10:49:24 +0800] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 304 0
 127.0.0.1 [11/Dec/2018:10:49:24 +0800] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 304 0
+127.0.0.1 [11/Dec/2018:10:57:56 +0800] "GET / HTTP/1.1" 200 25936
+127.0.0.1 [11/Dec/2018:10:57:56 +0800] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
