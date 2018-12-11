@@ -1,10 +1,13 @@
 from django.db import models
 import uuid
 from django.utils.translation import ugettext_lazy as _
+from orgs.mixins import OrgModelMixin
+
 # Create your models here.
 
 __all__ = ['Event']
-class Event(models.Model):
+
+class Event(OrgModelMixin):
     LEVEL_1 = 'level_1'
     LEVEL_2 = 'level_2'
     LEVEL_3 = 'level_3'
@@ -44,7 +47,7 @@ class Event(models.Model):
     finish_time = models.DateTimeField(verbose_name=_('处理结束时间'))
     even_starttime = models.DateTimeField(verbose_name=_('事件开始时间'))
     even_endtime = models.DateTimeField(verbose_name=_('事件恢复时间'))
-    system_name = models.CharField(max_length=128, null=True, verbose_name=_('系统名称'))
+    system_name = models.CharField(max_length=128, verbose_name=_('系统名称'))
     even_level = models.CharField(
         choices=EVENT_LEVEL_CHOICES, default='LEVEL_8', max_length=10,
         blank=True, verbose_name=_('事件等级')
@@ -56,7 +59,7 @@ class Event(models.Model):
         max_length=20, blank=True, null=True, verbose_name=_('应用开发负责人')
     )
     even_bus = models.CharField(
-        max_length=20, blank=True, null=True, verbose_name=_('应用开发负责人')
+        max_length=20, blank=True, null=True, verbose_name=_('应用业务负责人')
     )
     comment = models.TextField(
         max_length=200, blank=True, verbose_name=_('事件描述')

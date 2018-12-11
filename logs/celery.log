@@ -662,3 +662,910 @@ Task accepted: users.tasks.write_login_log_async[16c60b2f-d452-4ceb-8ee6-3ec75a2
 Starting new HTTP connection (1): ip.taobao.com
 http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
 Task users.tasks.write_login_log_async[16c60b2f-d452-4ceb-8ee6-3ec75a2ae5c0] succeeded in 0.2623260199998185s: None
+Received task: assets.tasks.update_assets_hardware_info_period[c33b8543-cff0-4be0-9fe4-3d502c60c81f]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.update_assets_hardware_info_period', 'c33b8543-cff0-4be0-9fe4-3d502c60c81f', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': 'c33b8543-cff0-4be0-9fe4-3d502c60c81f', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'c33b8543-cff0-4be0-9fe4-3d502c60c81f', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': 'c33b8543-cff0-4be0-9fe4-3d502c60c81f', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[c33b8543-cff0-4be0-9fe4-3d502c60c81f] pid:2051
+Received task: assets.tasks.test_admin_user_connectability_period[b2d55ede-fcdc-42cb-a166-fa1e8da25f5d]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.test_admin_user_connectability_period', 'b2d55ede-fcdc-42cb-a166-fa1e8da25f5d', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': 'b2d55ede-fcdc-42cb-a166-fa1e8da25f5d', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'b2d55ede-fcdc-42cb-a166-fa1e8da25f5d', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': 'b2d55ede-fcdc-42cb-a166-fa1e8da25f5d', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[b2d55ede-fcdc-42cb-a166-fa1e8da25f5d] pid:2050
+Received task: assets.tasks.test_system_user_connectability_period[1625b21c-8460-4675-902d-b0bc88708eb5]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.test_system_user_connectability_period', '1625b21c-8460-4675-902d-b0bc88708eb5', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '1625b21c-8460-4675-902d-b0bc88708eb5', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '1625b21c-8460-4675-902d-b0bc88708eb5', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': '1625b21c-8460-4675-902d-b0bc88708eb5', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[1625b21c-8460-4675-902d-b0bc88708eb5] pid:2048
+Period task disabled, update assets hardware info pass
+Task assets.tasks.update_assets_hardware_info_period[c33b8543-cff0-4be0-9fe4-3d502c60c81f] succeeded in 0.15890777099957631s: None
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_admin_user_connectability_period[b2d55ede-fcdc-42cb-a166-fa1e8da25f5d] succeeded in 0.15843973299888603s: None
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[1625b21c-8460-4675-902d-b0bc88708eb5] succeeded in 0.16358923400002823s: None
+Received task: assets.tasks.update_assets_hardware_info_period[c64f2d03-4354-4ea7-adda-1482a4cd69b7]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.update_assets_hardware_info_period', 'c64f2d03-4354-4ea7-adda-1482a4cd69b7', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': 'c64f2d03-4354-4ea7-adda-1482a4cd69b7', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'c64f2d03-4354-4ea7-adda-1482a4cd69b7', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': 'c64f2d03-4354-4ea7-adda-1482a4cd69b7', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[c64f2d03-4354-4ea7-adda-1482a4cd69b7] pid:2051
+Received task: assets.tasks.test_system_user_connectability_period[705a6416-1b19-4c02-88ed-187938661822]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.test_system_user_connectability_period', '705a6416-1b19-4c02-88ed-187938661822', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '705a6416-1b19-4c02-88ed-187938661822', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '705a6416-1b19-4c02-88ed-187938661822', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': '705a6416-1b19-4c02-88ed-187938661822', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[705a6416-1b19-4c02-88ed-187938661822] pid:2050
+Received task: assets.tasks.test_admin_user_connectability_period[71440211-13a7-40f7-ab73-c7a186f406cc]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.test_admin_user_connectability_period', '71440211-13a7-40f7-ab73-c7a186f406cc', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '71440211-13a7-40f7-ab73-c7a186f406cc', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '71440211-13a7-40f7-ab73-c7a186f406cc', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': '71440211-13a7-40f7-ab73-c7a186f406cc', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[71440211-13a7-40f7-ab73-c7a186f406cc] pid:2048
+Period task disabled, update assets hardware info pass
+Task assets.tasks.update_assets_hardware_info_period[c64f2d03-4354-4ea7-adda-1482a4cd69b7] succeeded in 0.12954509900009725s: None
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[705a6416-1b19-4c02-88ed-187938661822] succeeded in 0.12611925099918153s: None
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_admin_user_connectability_period[71440211-13a7-40f7-ab73-c7a186f406cc] succeeded in 0.1277925670001423s: None
+Received task: assets.tasks.test_system_user_connectability_period[b50ea6c8-1aea-428f-9ba7-0ba6388d480a]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.test_system_user_connectability_period', 'b50ea6c8-1aea-428f-9ba7-0ba6388d480a', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': 'b50ea6c8-1aea-428f-9ba7-0ba6388d480a', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'b50ea6c8-1aea-428f-9ba7-0ba6388d480a', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': 'b50ea6c8-1aea-428f-9ba7-0ba6388d480a', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[b50ea6c8-1aea-428f-9ba7-0ba6388d480a] pid:2051
+Received task: assets.tasks.test_admin_user_connectability_period[281a573c-17ce-4afa-b0b3-0bdcc18e8503]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.test_admin_user_connectability_period', '281a573c-17ce-4afa-b0b3-0bdcc18e8503', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '281a573c-17ce-4afa-b0b3-0bdcc18e8503', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '281a573c-17ce-4afa-b0b3-0bdcc18e8503', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': '281a573c-17ce-4afa-b0b3-0bdcc18e8503', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[281a573c-17ce-4afa-b0b3-0bdcc18e8503] pid:2050
+Received task: assets.tasks.update_assets_hardware_info_period[38a07db9-37e3-4cfd-9620-b4512f92ad68]  
+TaskPool: Apply <function _fast_trace_task at 0x1107f3c80> (args:('assets.tasks.update_assets_hardware_info_period', '38a07db9-37e3-4cfd-9620-b4512f92ad68', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': '38a07db9-37e3-4cfd-9620-b4512f92ad68', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '38a07db9-37e3-4cfd-9620-b4512f92ad68', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2035@localhost', 'reply_to': '2015c2ee-f5ae-32da-82b6-3635c89c99c4', 'correlation_id': '38a07db9-37e3-4cfd-9620-b4512f92ad68', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[38a07db9-37e3-4cfd-9620-b4512f92ad68] pid:2048
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[b50ea6c8-1aea-428f-9ba7-0ba6388d480a] succeeded in 0.1276832179974008s: None
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_admin_user_connectability_period[281a573c-17ce-4afa-b0b3-0bdcc18e8503] succeeded in 0.13281697200000053s: None
+Period task disabled, update assets hardware info pass
+Task assets.tasks.update_assets_hardware_info_period[38a07db9-37e3-4cfd-9620-b4512f92ad68] succeeded in 0.14157611100017675s: None
+| Worker: Closing Hub...
+| Worker: Closing Pool...
+| Worker: Closing Autoscaler...
+| Worker: Closing Consumer...
+| Worker: Stopping Consumer...
+| Consumer: Closing Connection...
+| Consumer: Closing Events...
+| Consumer: Closing Heart...
+| Consumer: Closing Mingle...
+| Consumer: Closing Gossip...
+| Consumer: Closing Tasks...
+| Consumer: Closing Control...
+| Consumer: Closing event loop...
+| Consumer: Stopping event loop...
+| Consumer: Stopping Control...
+| Consumer: Stopping Tasks...
+Canceling task consumer...
+| Consumer: Stopping Gossip...
+| Consumer: Stopping Mingle...
+| Consumer: Stopping Heart...
+| Consumer: Stopping Events...
+| Consumer: Stopping Connection...
+| Worker: Stopping Autoscaler...
+| Worker: Stopping Pool...
+| Worker: Stopping Hub...
+| Consumer: Shutdown Control...
+| Consumer: Shutdown Tasks...
+Canceling task consumer...
+Closing consumer channel...
+| Consumer: Shutdown Gossip...
+| Consumer: Shutdown Heart...
+| Consumer: Shutdown Events...
+| Consumer: Shutdown Connection...
+App shutdown signal recv
+Clean need cleaned period tasks: []
+removing tasks from inqueue until task handler finished
+| Worker: Preparing bootsteps.
+| Worker: Building graph...
+| Worker: New boot order: {StateDB, Beat, Timer, Hub, Pool, Autoscaler, Consumer}
+| Consumer: Preparing bootsteps.
+| Consumer: Building graph...
+| Consumer: New boot order: {Connection, Events, Mingle, Gossip, Agent, Heart, Tasks, Control, event loop}
+| Worker: Starting Hub
+^-- substep ok
+| Worker: Starting Pool
+^-- substep ok
+| Worker: Starting Autoscaler
+^-- substep ok
+| Worker: Starting Consumer
+| Consumer: Starting Connection
+Connected to redis://:**@127.0.0.1:6379/3
+^-- substep ok
+| Consumer: Starting Events
+^-- substep ok
+| Consumer: Starting Mingle
+mingle: searching for neighbors
+mingle: all alone
+^-- substep ok
+| Consumer: Starting Gossip
+^-- substep ok
+| Consumer: Starting Heart
+^-- substep ok
+| Consumer: Starting Tasks
+^-- substep ok
+| Consumer: Starting Control
+^-- substep ok
+| Consumer: Starting event loop
+| Worker: Hub.register Autoscaler...
+| Worker: Hub.register Pool...
+App ready signal recv
+Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+celery@localhost ready.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.update_assets_hardware_info_period[197543ad-da57-401c-a8bd-9b51ae525b7b]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('assets.tasks.update_assets_hardware_info_period', '197543ad-da57-401c-a8bd-9b51ae525b7b', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': '197543ad-da57-401c-a8bd-9b51ae525b7b', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '197543ad-da57-401c-a8bd-9b51ae525b7b', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2919@localhost', 'reply_to': '3244a055-563f-39e1-9479-919bf4abde80', 'correlation_id': '197543ad-da57-401c-a8bd-9b51ae525b7b', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Received task: assets.tasks.test_admin_user_connectability_period[1fae3a3f-ee45-4e86-8e0a-1dcd21b948c6]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('assets.tasks.test_admin_user_connectability_period', '1fae3a3f-ee45-4e86-8e0a-1dcd21b948c6', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '1fae3a3f-ee45-4e86-8e0a-1dcd21b948c6', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '1fae3a3f-ee45-4e86-8e0a-1dcd21b948c6', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2919@localhost', 'reply_to': '3244a055-563f-39e1-9479-919bf4abde80', 'correlation_id': '1fae3a3f-ee45-4e86-8e0a-1dcd21b948c6', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[197543ad-da57-401c-a8bd-9b51ae525b7b] pid:2932
+Received task: assets.tasks.test_system_user_connectability_period[616298ce-491a-40b3-89cd-e889fe525c66]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('assets.tasks.test_system_user_connectability_period', '616298ce-491a-40b3-89cd-e889fe525c66', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '616298ce-491a-40b3-89cd-e889fe525c66', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '616298ce-491a-40b3-89cd-e889fe525c66', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2919@localhost', 'reply_to': '3244a055-563f-39e1-9479-919bf4abde80', 'correlation_id': '616298ce-491a-40b3-89cd-e889fe525c66', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[1fae3a3f-ee45-4e86-8e0a-1dcd21b948c6] pid:2931
+Received task: terminal.tasks.delete_terminal_status_period[e9347fec-d9e6-47d2-8900-02230560d6df]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('terminal.tasks.delete_terminal_status_period', 'e9347fec-d9e6-47d2-8900-02230560d6df', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': 'e9347fec-d9e6-47d2-8900-02230560d6df', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'e9347fec-d9e6-47d2-8900-02230560d6df', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2919@localhost', 'reply_to': '3244a055-563f-39e1-9479-919bf4abde80', 'correlation_id': 'e9347fec-d9e6-47d2-8900-02230560d6df', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[616298ce-491a-40b3-89cd-e889fe525c66] pid:2934
+Received task: terminal.tasks.clean_orphan_session[391b74f7-83d5-4f61-ad23-e630d599247c]  
+Scaling up 1 processes.
+Period task disabled, update assets hardware info pass
+Period task disabled, test admin user connectability pass
+Task assets.tasks.update_assets_hardware_info_period[197543ad-da57-401c-a8bd-9b51ae525b7b] succeeded in 0.1793763539972133s: None
+Task assets.tasks.test_admin_user_connectability_period[1fae3a3f-ee45-4e86-8e0a-1dcd21b948c6] succeeded in 0.1745976879974478s: None
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[616298ce-491a-40b3-89cd-e889fe525c66] succeeded in 0.19643356899905484s: None
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('terminal.tasks.clean_orphan_session', '391b74f7-83d5-4f61-ad23-e630d599247c', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': '391b74f7-83d5-4f61-ad23-e630d599247c', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '391b74f7-83d5-4f61-ad23-e630d599247c', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2919@localhost', 'reply_to': '3244a055-563f-39e1-9479-919bf4abde80', 'correlation_id': '391b74f7-83d5-4f61-ad23-e630d599247c', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.delete_terminal_status_period[e9347fec-d9e6-47d2-8900-02230560d6df] pid:2933
+basic.qos: prefetch_count->20
+Task accepted: terminal.tasks.clean_orphan_session[391b74f7-83d5-4f61-ad23-e630d599247c] pid:2931
+Task terminal.tasks.delete_terminal_status_period[e9347fec-d9e6-47d2-8900-02230560d6df] succeeded in 0.2656909180004732s: None
+Task terminal.tasks.clean_orphan_session[391b74f7-83d5-4f61-ad23-e630d599247c] succeeded in 0.1424650750013825s: None
+Scaling down 1 processes.
+basic.qos: prefetch_count->16
+Received task: users.tasks.write_login_log_async[ea065eae-8730-49b3-bcb3-6c2b6f50be9e]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('users.tasks.write_login_log_async', 'ea065eae-8730-49b3-bcb3-6c2b6f50be9e', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': 'ea065eae-8730-49b3-bcb3-6c2b6f50be9e', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'ea065eae-8730-49b3-bcb3-6c2b6f50be9e', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3115@localhost', 'reply_to': '319a4f60-355b-390d-9999-5dee0395b475', 'correlation_id': 'ea065eae-8730-49b3-bcb3-6c2b6f50be9e', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[ea065eae-8730-49b3-bcb3-6c2b6f50be9e] pid:2933
+Not get the task: ea065eae-8730-49b3-bcb3-6c2b6f50be9e
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[ea065eae-8730-49b3-bcb3-6c2b6f50be9e] succeeded in 0.800114426001528s: None
+Not get the task: ea065eae-8730-49b3-bcb3-6c2b6f50be9e
+Received task: assets.tasks.test_system_user_connectability_period[ef7065b8-d5e8-4051-853d-4d59b14c3eb1]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('assets.tasks.test_system_user_connectability_period', 'ef7065b8-d5e8-4051-853d-4d59b14c3eb1', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': 'ef7065b8-d5e8-4051-853d-4d59b14c3eb1', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'ef7065b8-d5e8-4051-853d-4d59b14c3eb1', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2921@localhost', 'reply_to': 'f5549274-84ca-30f5-9dc2-881ed0be1335', 'correlation_id': 'ef7065b8-d5e8-4051-853d-4d59b14c3eb1', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[ef7065b8-d5e8-4051-853d-4d59b14c3eb1] pid:2932
+Received task: assets.tasks.test_admin_user_connectability_period[c5cc2006-8bce-4d0f-9752-041803249357]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('assets.tasks.test_admin_user_connectability_period', 'c5cc2006-8bce-4d0f-9752-041803249357', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': 'c5cc2006-8bce-4d0f-9752-041803249357', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'c5cc2006-8bce-4d0f-9752-041803249357', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2921@localhost', 'reply_to': 'f5549274-84ca-30f5-9dc2-881ed0be1335', 'correlation_id': 'c5cc2006-8bce-4d0f-9752-041803249357', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[c5cc2006-8bce-4d0f-9752-041803249357] pid:2933
+Received task: assets.tasks.update_assets_hardware_info_period[3fa9890c-e298-402d-894b-69a7c0556cce]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('assets.tasks.update_assets_hardware_info_period', '3fa9890c-e298-402d-894b-69a7c0556cce', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': '3fa9890c-e298-402d-894b-69a7c0556cce', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '3fa9890c-e298-402d-894b-69a7c0556cce', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2921@localhost', 'reply_to': 'f5549274-84ca-30f5-9dc2-881ed0be1335', 'correlation_id': '3fa9890c-e298-402d-894b-69a7c0556cce', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[3fa9890c-e298-402d-894b-69a7c0556cce] pid:2934
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_admin_user_connectability_period[c5cc2006-8bce-4d0f-9752-041803249357] succeeded in 0.1275282700007665s: None
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[ef7065b8-d5e8-4051-853d-4d59b14c3eb1] succeeded in 0.14966539399756584s: None
+Period task disabled, update assets hardware info pass
+Task assets.tasks.update_assets_hardware_info_period[3fa9890c-e298-402d-894b-69a7c0556cce] succeeded in 0.1549934629983909s: None
+Received task: terminal.tasks.delete_terminal_status_period[657227b1-ce48-49a7-9ae9-8e623e46994f]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('terminal.tasks.delete_terminal_status_period', '657227b1-ce48-49a7-9ae9-8e623e46994f', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': '657227b1-ce48-49a7-9ae9-8e623e46994f', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '657227b1-ce48-49a7-9ae9-8e623e46994f', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2921@localhost', 'reply_to': 'f5549274-84ca-30f5-9dc2-881ed0be1335', 'correlation_id': '657227b1-ce48-49a7-9ae9-8e623e46994f', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.delete_terminal_status_period[657227b1-ce48-49a7-9ae9-8e623e46994f] pid:2932
+Received task: terminal.tasks.clean_orphan_session[1f7c7236-f4ef-4140-ac13-f2c8db5f1570]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('terminal.tasks.clean_orphan_session', '1f7c7236-f4ef-4140-ac13-f2c8db5f1570', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': '1f7c7236-f4ef-4140-ac13-f2c8db5f1570', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '1f7c7236-f4ef-4140-ac13-f2c8db5f1570', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen2921@localhost', 'reply_to': 'f5549274-84ca-30f5-9dc2-881ed0be1335', 'correlation_id': '1f7c7236-f4ef-4140-ac13-f2c8db5f1570', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.clean_orphan_session[1f7c7236-f4ef-4140-ac13-f2c8db5f1570] pid:2933
+Task terminal.tasks.delete_terminal_status_period[657227b1-ce48-49a7-9ae9-8e623e46994f] succeeded in 0.15793186999871978s: None
+Task terminal.tasks.clean_orphan_session[1f7c7236-f4ef-4140-ac13-f2c8db5f1570] succeeded in 0.1526161959991441s: None
+Received task: users.tasks.write_login_log_async[f259301a-f0a7-4203-ac1d-282a563f46e1]  
+TaskPool: Apply <function _fast_trace_task at 0x106e3bc80> (args:('users.tasks.write_login_log_async', 'f259301a-f0a7-4203-ac1d-282a563f46e1', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': 'f259301a-f0a7-4203-ac1d-282a563f46e1', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'f259301a-f0a7-4203-ac1d-282a563f46e1', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen2915@localhost', 'reply_to': '244dfdce-98c8-3496-b67b-4a654e5be127', 'correlation_id': 'f259301a-f0a7-4203-ac1d-282a563f46e1', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[f259301a-f0a7-4203-ac1d-282a563f46e1] pid:2932
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[f259301a-f0a7-4203-ac1d-282a563f46e1] succeeded in 0.2211721560015576s: None
+| Worker: Closing Hub...
+| Worker: Closing Pool...
+| Worker: Closing Autoscaler...
+| Worker: Closing Consumer...
+| Worker: Stopping Consumer...
+| Consumer: Closing Connection...
+| Consumer: Closing Events...
+| Consumer: Closing Mingle...
+| Consumer: Closing Gossip...
+| Consumer: Closing Heart...
+| Consumer: Closing Tasks...
+| Consumer: Closing Control...
+| Consumer: Closing event loop...
+| Consumer: Stopping event loop...
+| Consumer: Stopping Control...
+| Consumer: Stopping Tasks...
+Canceling task consumer...
+| Consumer: Stopping Heart...
+| Consumer: Stopping Gossip...
+| Consumer: Stopping Mingle...
+| Consumer: Stopping Events...
+| Consumer: Stopping Connection...
+| Worker: Stopping Autoscaler...
+| Worker: Stopping Pool...
+| Worker: Stopping Hub...
+| Consumer: Shutdown Control...
+| Consumer: Shutdown Tasks...
+Canceling task consumer...
+Closing consumer channel...
+| Consumer: Shutdown Heart...
+| Consumer: Shutdown Gossip...
+| Consumer: Shutdown Events...
+| Consumer: Shutdown Connection...
+App shutdown signal recv
+Clean need cleaned period tasks: []
+removing tasks from inqueue until task handler finished
+| Worker: Preparing bootsteps.
+| Worker: Building graph...
+| Worker: New boot order: {Timer, Hub, Pool, Autoscaler, Beat, StateDB, Consumer}
+| Consumer: Preparing bootsteps.
+| Consumer: Building graph...
+| Consumer: New boot order: {Connection, Agent, Events, Heart, Mingle, Gossip, Tasks, Control, event loop}
+| Worker: Starting Hub
+^-- substep ok
+| Worker: Starting Pool
+^-- substep ok
+| Worker: Starting Autoscaler
+^-- substep ok
+| Worker: Starting Consumer
+| Consumer: Starting Connection
+Connected to redis://:**@127.0.0.1:6379/3
+^-- substep ok
+| Consumer: Starting Events
+^-- substep ok
+| Consumer: Starting Heart
+^-- substep ok
+| Consumer: Starting Mingle
+mingle: searching for neighbors
+mingle: all alone
+^-- substep ok
+| Consumer: Starting Gossip
+^-- substep ok
+| Consumer: Starting Tasks
+^-- substep ok
+| Consumer: Starting Control
+^-- substep ok
+| Consumer: Starting event loop
+| Worker: Hub.register Autoscaler...
+| Worker: Hub.register Pool...
+App ready signal recv
+Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+celery@localhost ready.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.update_assets_hardware_info_period[2c99f7af-8a75-4d73-8a1b-917dc51d15ff]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('assets.tasks.update_assets_hardware_info_period', '2c99f7af-8a75-4d73-8a1b-917dc51d15ff', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': '2c99f7af-8a75-4d73-8a1b-917dc51d15ff', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '2c99f7af-8a75-4d73-8a1b-917dc51d15ff', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3255@localhost', 'reply_to': '50a33b0c-d129-324f-a73f-ab677f598861', 'correlation_id': '2c99f7af-8a75-4d73-8a1b-917dc51d15ff', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[2c99f7af-8a75-4d73-8a1b-917dc51d15ff] pid:3266
+Received task: assets.tasks.test_admin_user_connectability_period[0ea5b4f3-7750-4c59-887a-4a466e876a41]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('assets.tasks.test_admin_user_connectability_period', '0ea5b4f3-7750-4c59-887a-4a466e876a41', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '0ea5b4f3-7750-4c59-887a-4a466e876a41', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '0ea5b4f3-7750-4c59-887a-4a466e876a41', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3255@localhost', 'reply_to': '50a33b0c-d129-324f-a73f-ab677f598861', 'correlation_id': '0ea5b4f3-7750-4c59-887a-4a466e876a41', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[0ea5b4f3-7750-4c59-887a-4a466e876a41] pid:3265
+Received task: assets.tasks.test_system_user_connectability_period[ad854d22-59a6-44e5-a21e-6b7009f4bab8]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('assets.tasks.test_system_user_connectability_period', 'ad854d22-59a6-44e5-a21e-6b7009f4bab8', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': 'ad854d22-59a6-44e5-a21e-6b7009f4bab8', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'ad854d22-59a6-44e5-a21e-6b7009f4bab8', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3255@localhost', 'reply_to': '50a33b0c-d129-324f-a73f-ab677f598861', 'correlation_id': 'ad854d22-59a6-44e5-a21e-6b7009f4bab8', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[ad854d22-59a6-44e5-a21e-6b7009f4bab8] pid:3268
+Received task: terminal.tasks.delete_terminal_status_period[ce54938a-4cbe-4827-bccb-8d8d3bf5617b]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('terminal.tasks.delete_terminal_status_period', 'ce54938a-4cbe-4827-bccb-8d8d3bf5617b', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': 'ce54938a-4cbe-4827-bccb-8d8d3bf5617b', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'ce54938a-4cbe-4827-bccb-8d8d3bf5617b', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3255@localhost', 'reply_to': '50a33b0c-d129-324f-a73f-ab677f598861', 'correlation_id': 'ce54938a-4cbe-4827-bccb-8d8d3bf5617b', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.delete_terminal_status_period[ce54938a-4cbe-4827-bccb-8d8d3bf5617b] pid:3267
+Received task: terminal.tasks.clean_orphan_session[f9ae7529-3146-4dd1-b7da-685df3ce3e7b]  
+Scaling up 1 processes.
+Period task disabled, update assets hardware info pass
+Period task disabled, test system user connectability pass
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_system_user_connectability_period[ad854d22-59a6-44e5-a21e-6b7009f4bab8] succeeded in 0.19508928100185585s: None
+Task assets.tasks.test_admin_user_connectability_period[0ea5b4f3-7750-4c59-887a-4a466e876a41] succeeded in 0.2029635260005307s: None
+Task assets.tasks.update_assets_hardware_info_period[2c99f7af-8a75-4d73-8a1b-917dc51d15ff] succeeded in 0.21137192500100355s: None
+Task terminal.tasks.delete_terminal_status_period[ce54938a-4cbe-4827-bccb-8d8d3bf5617b] succeeded in 0.22685745600028895s: None
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('terminal.tasks.clean_orphan_session', 'f9ae7529-3146-4dd1-b7da-685df3ce3e7b', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': 'f9ae7529-3146-4dd1-b7da-685df3ce3e7b', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'f9ae7529-3146-4dd1-b7da-685df3ce3e7b', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3255@localhost', 'reply_to': '50a33b0c-d129-324f-a73f-ab677f598861', 'correlation_id': 'f9ae7529-3146-4dd1-b7da-685df3ce3e7b', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+basic.qos: prefetch_count->20
+Task accepted: terminal.tasks.clean_orphan_session[f9ae7529-3146-4dd1-b7da-685df3ce3e7b] pid:3266
+Task terminal.tasks.clean_orphan_session[f9ae7529-3146-4dd1-b7da-685df3ce3e7b] succeeded in 0.13766848600062076s: None
+Scaling down 1 processes.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.test_system_user_connectability_period[8ec75170-c85b-43e8-a5bc-f23b02b2fd61]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('assets.tasks.test_system_user_connectability_period', '8ec75170-c85b-43e8-a5bc-f23b02b2fd61', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '8ec75170-c85b-43e8-a5bc-f23b02b2fd61', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '8ec75170-c85b-43e8-a5bc-f23b02b2fd61', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3253@localhost', 'reply_to': 'fa00b809-64fc-3e40-b3b4-a9f35df21611', 'correlation_id': '8ec75170-c85b-43e8-a5bc-f23b02b2fd61', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[8ec75170-c85b-43e8-a5bc-f23b02b2fd61] pid:3267
+Received task: assets.tasks.test_admin_user_connectability_period[be6960ef-1863-4534-a8ad-33f44f9ff877]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('assets.tasks.test_admin_user_connectability_period', 'be6960ef-1863-4534-a8ad-33f44f9ff877', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': 'be6960ef-1863-4534-a8ad-33f44f9ff877', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'be6960ef-1863-4534-a8ad-33f44f9ff877', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3253@localhost', 'reply_to': 'fa00b809-64fc-3e40-b3b4-a9f35df21611', 'correlation_id': 'be6960ef-1863-4534-a8ad-33f44f9ff877', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[be6960ef-1863-4534-a8ad-33f44f9ff877] pid:3266
+Received task: assets.tasks.update_assets_hardware_info_period[f8f44fa9-07f9-46d8-bf94-564925ac9087]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('assets.tasks.update_assets_hardware_info_period', 'f8f44fa9-07f9-46d8-bf94-564925ac9087', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': 'f8f44fa9-07f9-46d8-bf94-564925ac9087', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'f8f44fa9-07f9-46d8-bf94-564925ac9087', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3253@localhost', 'reply_to': 'fa00b809-64fc-3e40-b3b4-a9f35df21611', 'correlation_id': 'f8f44fa9-07f9-46d8-bf94-564925ac9087', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[f8f44fa9-07f9-46d8-bf94-564925ac9087] pid:3269
+Period task disabled, test system user connectability pass
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_system_user_connectability_period[8ec75170-c85b-43e8-a5bc-f23b02b2fd61] succeeded in 0.17875497700151755s: None
+Task assets.tasks.test_admin_user_connectability_period[be6960ef-1863-4534-a8ad-33f44f9ff877] succeeded in 0.16978332799772033s: None
+Period task disabled, update assets hardware info pass
+Task assets.tasks.update_assets_hardware_info_period[f8f44fa9-07f9-46d8-bf94-564925ac9087] succeeded in 0.1879712070003734s: None
+Received task: terminal.tasks.delete_terminal_status_period[d3cbb940-6f2a-4d47-8df8-02fbcec8c39a]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('terminal.tasks.delete_terminal_status_period', 'd3cbb940-6f2a-4d47-8df8-02fbcec8c39a', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': 'd3cbb940-6f2a-4d47-8df8-02fbcec8c39a', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'd3cbb940-6f2a-4d47-8df8-02fbcec8c39a', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3253@localhost', 'reply_to': 'fa00b809-64fc-3e40-b3b4-a9f35df21611', 'correlation_id': 'd3cbb940-6f2a-4d47-8df8-02fbcec8c39a', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.delete_terminal_status_period[d3cbb940-6f2a-4d47-8df8-02fbcec8c39a] pid:3267
+Received task: terminal.tasks.clean_orphan_session[08cdcc4e-8f87-4546-9cb4-3f4bbf131ea9]  
+TaskPool: Apply <function _fast_trace_task at 0x1089f6c80> (args:('terminal.tasks.clean_orphan_session', '08cdcc4e-8f87-4546-9cb4-3f4bbf131ea9', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': '08cdcc4e-8f87-4546-9cb4-3f4bbf131ea9', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '08cdcc4e-8f87-4546-9cb4-3f4bbf131ea9', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3253@localhost', 'reply_to': 'fa00b809-64fc-3e40-b3b4-a9f35df21611', 'correlation_id': '08cdcc4e-8f87-4546-9cb4-3f4bbf131ea9', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.clean_orphan_session[08cdcc4e-8f87-4546-9cb4-3f4bbf131ea9] pid:3266
+Task terminal.tasks.delete_terminal_status_period[d3cbb940-6f2a-4d47-8df8-02fbcec8c39a] succeeded in 0.170265685999766s: None
+Task terminal.tasks.clean_orphan_session[08cdcc4e-8f87-4546-9cb4-3f4bbf131ea9] succeeded in 0.1589531680001528s: None
+| Worker: Closing Hub...
+| Worker: Closing Pool...
+| Worker: Closing Autoscaler...
+| Worker: Closing Consumer...
+| Worker: Stopping Consumer...
+| Consumer: Closing Connection...
+| Consumer: Closing Events...
+| Consumer: Closing Heart...
+| Consumer: Closing Mingle...
+| Consumer: Closing Gossip...
+| Consumer: Closing Tasks...
+| Consumer: Closing Control...
+| Consumer: Closing event loop...
+| Consumer: Stopping event loop...
+| Consumer: Stopping Control...
+| Consumer: Stopping Tasks...
+Canceling task consumer...
+| Consumer: Stopping Gossip...
+| Consumer: Stopping Mingle...
+| Consumer: Stopping Heart...
+| Consumer: Stopping Events...
+| Consumer: Stopping Connection...
+| Worker: Stopping Autoscaler...
+| Worker: Stopping Pool...
+| Worker: Stopping Hub...
+| Consumer: Shutdown Control...
+| Consumer: Shutdown Tasks...
+Canceling task consumer...
+Closing consumer channel...
+| Consumer: Shutdown Gossip...
+| Consumer: Shutdown Heart...
+| Consumer: Shutdown Events...
+| Consumer: Shutdown Connection...
+App shutdown signal recv
+Clean need cleaned period tasks: []
+removing tasks from inqueue until task handler finished
+| Worker: Preparing bootsteps.
+| Worker: Building graph...
+| Worker: New boot order: {Timer, Hub, Pool, Autoscaler, StateDB, Beat, Consumer}
+| Consumer: Preparing bootsteps.
+| Consumer: Building graph...
+| Consumer: New boot order: {Connection, Events, Mingle, Tasks, Control, Agent, Gossip, Heart, event loop}
+| Worker: Starting Hub
+^-- substep ok
+| Worker: Starting Pool
+^-- substep ok
+| Worker: Starting Autoscaler
+^-- substep ok
+| Worker: Starting Consumer
+| Consumer: Starting Connection
+Connected to redis://:**@127.0.0.1:6379/3
+^-- substep ok
+| Consumer: Starting Events
+^-- substep ok
+| Consumer: Starting Mingle
+mingle: searching for neighbors
+mingle: all alone
+^-- substep ok
+| Consumer: Starting Tasks
+^-- substep ok
+| Consumer: Starting Control
+^-- substep ok
+| Consumer: Starting Gossip
+^-- substep ok
+| Consumer: Starting Heart
+^-- substep ok
+| Consumer: Starting event loop
+| Worker: Hub.register Autoscaler...
+| Worker: Hub.register Pool...
+App ready signal recv
+Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+celery@localhost ready.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.update_assets_hardware_info_period[3ab4dd5a-622c-4911-908d-a44b3b1b3496]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('assets.tasks.update_assets_hardware_info_period', '3ab4dd5a-622c-4911-908d-a44b3b1b3496', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': '3ab4dd5a-622c-4911-908d-a44b3b1b3496', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '3ab4dd5a-622c-4911-908d-a44b3b1b3496', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3440@localhost', 'reply_to': 'a4cebb0d-26f8-33cb-90cb-33aab1488784', 'correlation_id': '3ab4dd5a-622c-4911-908d-a44b3b1b3496', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Received task: assets.tasks.test_admin_user_connectability_period[253a57b0-9ecb-4969-adc0-726ffefdbf69]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('assets.tasks.test_admin_user_connectability_period', '253a57b0-9ecb-4969-adc0-726ffefdbf69', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '253a57b0-9ecb-4969-adc0-726ffefdbf69', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '253a57b0-9ecb-4969-adc0-726ffefdbf69', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3440@localhost', 'reply_to': 'a4cebb0d-26f8-33cb-90cb-33aab1488784', 'correlation_id': '253a57b0-9ecb-4969-adc0-726ffefdbf69', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[3ab4dd5a-622c-4911-908d-a44b3b1b3496] pid:3453
+Received task: assets.tasks.test_system_user_connectability_period[3859403f-b636-4bea-8dbd-992a2b68c062]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('assets.tasks.test_system_user_connectability_period', '3859403f-b636-4bea-8dbd-992a2b68c062', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '3859403f-b636-4bea-8dbd-992a2b68c062', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '3859403f-b636-4bea-8dbd-992a2b68c062', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3440@localhost', 'reply_to': 'a4cebb0d-26f8-33cb-90cb-33aab1488784', 'correlation_id': '3859403f-b636-4bea-8dbd-992a2b68c062', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[253a57b0-9ecb-4969-adc0-726ffefdbf69] pid:3452
+Received task: terminal.tasks.delete_terminal_status_period[8c0a699c-88f6-4dd2-833b-79b5fa83d1ec]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('terminal.tasks.delete_terminal_status_period', '8c0a699c-88f6-4dd2-833b-79b5fa83d1ec', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': '8c0a699c-88f6-4dd2-833b-79b5fa83d1ec', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '8c0a699c-88f6-4dd2-833b-79b5fa83d1ec', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3440@localhost', 'reply_to': 'a4cebb0d-26f8-33cb-90cb-33aab1488784', 'correlation_id': '8c0a699c-88f6-4dd2-833b-79b5fa83d1ec', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[3859403f-b636-4bea-8dbd-992a2b68c062] pid:3455
+Received task: terminal.tasks.clean_orphan_session[95e147fd-4a77-4de0-a08f-53159ee45bc6]  
+Scaling up 1 processes.
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('terminal.tasks.clean_orphan_session', '95e147fd-4a77-4de0-a08f-53159ee45bc6', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': '95e147fd-4a77-4de0-a08f-53159ee45bc6', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '95e147fd-4a77-4de0-a08f-53159ee45bc6', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3440@localhost', 'reply_to': 'a4cebb0d-26f8-33cb-90cb-33aab1488784', 'correlation_id': '95e147fd-4a77-4de0-a08f-53159ee45bc6', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.delete_terminal_status_period[8c0a699c-88f6-4dd2-833b-79b5fa83d1ec] pid:3454
+basic.qos: prefetch_count->20
+Task accepted: terminal.tasks.clean_orphan_session[95e147fd-4a77-4de0-a08f-53159ee45bc6] pid:3456
+Period task disabled, update assets hardware info pass
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_admin_user_connectability_period[253a57b0-9ecb-4969-adc0-726ffefdbf69] succeeded in 0.22695479300091392s: None
+Task assets.tasks.update_assets_hardware_info_period[3ab4dd5a-622c-4911-908d-a44b3b1b3496] succeeded in 0.23352733199862996s: None
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[3859403f-b636-4bea-8dbd-992a2b68c062] succeeded in 0.2267900830011058s: None
+Task terminal.tasks.delete_terminal_status_period[8c0a699c-88f6-4dd2-833b-79b5fa83d1ec] succeeded in 0.24524403100076597s: None
+Task terminal.tasks.clean_orphan_session[95e147fd-4a77-4de0-a08f-53159ee45bc6] succeeded in 0.15089240000088466s: None
+Scaling down 1 processes.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.test_system_user_connectability_period[262fadeb-ada1-428a-b597-85a44f2dd872]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('assets.tasks.test_system_user_connectability_period', '262fadeb-ada1-428a-b597-85a44f2dd872', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '262fadeb-ada1-428a-b597-85a44f2dd872', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '262fadeb-ada1-428a-b597-85a44f2dd872', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3442@localhost', 'reply_to': 'e409f23a-8661-320f-8930-a34acb732cee', 'correlation_id': '262fadeb-ada1-428a-b597-85a44f2dd872', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[262fadeb-ada1-428a-b597-85a44f2dd872] pid:3455
+Received task: assets.tasks.test_admin_user_connectability_period[e3832822-5625-466d-99df-8c6ef40d79ab]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('assets.tasks.test_admin_user_connectability_period', 'e3832822-5625-466d-99df-8c6ef40d79ab', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': 'e3832822-5625-466d-99df-8c6ef40d79ab', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'e3832822-5625-466d-99df-8c6ef40d79ab', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3442@localhost', 'reply_to': 'e409f23a-8661-320f-8930-a34acb732cee', 'correlation_id': 'e3832822-5625-466d-99df-8c6ef40d79ab', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[e3832822-5625-466d-99df-8c6ef40d79ab] pid:3456
+Received task: assets.tasks.update_assets_hardware_info_period[cd2b74c2-d99d-4517-9925-3b6a69823d17]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('assets.tasks.update_assets_hardware_info_period', 'cd2b74c2-d99d-4517-9925-3b6a69823d17', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': 'cd2b74c2-d99d-4517-9925-3b6a69823d17', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'cd2b74c2-d99d-4517-9925-3b6a69823d17', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3442@localhost', 'reply_to': 'e409f23a-8661-320f-8930-a34acb732cee', 'correlation_id': 'cd2b74c2-d99d-4517-9925-3b6a69823d17', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[cd2b74c2-d99d-4517-9925-3b6a69823d17] pid:3454
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[262fadeb-ada1-428a-b597-85a44f2dd872] succeeded in 0.1604397940027411s: None
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_admin_user_connectability_period[e3832822-5625-466d-99df-8c6ef40d79ab] succeeded in 0.17756858200300485s: None
+Period task disabled, update assets hardware info pass
+Task assets.tasks.update_assets_hardware_info_period[cd2b74c2-d99d-4517-9925-3b6a69823d17] succeeded in 0.16961644299590262s: None
+Received task: terminal.tasks.delete_terminal_status_period[72fa42d3-9bfa-448b-bd8e-fa72dad3ac75]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('terminal.tasks.delete_terminal_status_period', '72fa42d3-9bfa-448b-bd8e-fa72dad3ac75', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': '72fa42d3-9bfa-448b-bd8e-fa72dad3ac75', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '72fa42d3-9bfa-448b-bd8e-fa72dad3ac75', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3442@localhost', 'reply_to': 'e409f23a-8661-320f-8930-a34acb732cee', 'correlation_id': '72fa42d3-9bfa-448b-bd8e-fa72dad3ac75', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.delete_terminal_status_period[72fa42d3-9bfa-448b-bd8e-fa72dad3ac75] pid:3455
+Received task: terminal.tasks.clean_orphan_session[f64be3e3-d496-4639-b07b-ff820508f3f9]  
+TaskPool: Apply <function _fast_trace_task at 0x105955c80> (args:('terminal.tasks.clean_orphan_session', 'f64be3e3-d496-4639-b07b-ff820508f3f9', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': 'f64be3e3-d496-4639-b07b-ff820508f3f9', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'f64be3e3-d496-4639-b07b-ff820508f3f9', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3442@localhost', 'reply_to': 'e409f23a-8661-320f-8930-a34acb732cee', 'correlation_id': 'f64be3e3-d496-4639-b07b-ff820508f3f9', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.clean_orphan_session[f64be3e3-d496-4639-b07b-ff820508f3f9] pid:3456
+Task terminal.tasks.delete_terminal_status_period[72fa42d3-9bfa-448b-bd8e-fa72dad3ac75] succeeded in 0.1426179129994125s: None
+Task terminal.tasks.clean_orphan_session[f64be3e3-d496-4639-b07b-ff820508f3f9] succeeded in 0.14542258699657395s: None
+| Worker: Closing Hub...
+| Worker: Closing Pool...
+| Worker: Closing Autoscaler...
+| Worker: Closing Consumer...
+| Worker: Stopping Consumer...
+| Consumer: Closing Connection...
+| Consumer: Closing Events...
+| Consumer: Closing Mingle...
+| Consumer: Closing Tasks...
+| Consumer: Closing Control...
+| Consumer: Closing Gossip...
+| Consumer: Closing Heart...
+| Consumer: Closing event loop...
+| Consumer: Stopping event loop...
+| Consumer: Stopping Heart...
+| Consumer: Stopping Gossip...
+| Consumer: Stopping Control...
+| Consumer: Stopping Tasks...
+Canceling task consumer...
+| Consumer: Stopping Mingle...
+| Consumer: Stopping Events...
+| Consumer: Stopping Connection...
+| Worker: Stopping Autoscaler...
+| Worker: Stopping Pool...
+| Worker: Stopping Hub...
+| Consumer: Shutdown Heart...
+| Consumer: Shutdown Gossip...
+| Consumer: Shutdown Control...
+| Consumer: Shutdown Tasks...
+Canceling task consumer...
+Closing consumer channel...
+| Consumer: Shutdown Events...
+| Consumer: Shutdown Connection...
+App shutdown signal recv
+Clean need cleaned period tasks: []
+removing tasks from inqueue until task handler finished
+| Worker: Preparing bootsteps.
+| Worker: Building graph...
+| Worker: New boot order: {Timer, Hub, Pool, Autoscaler, Beat, StateDB, Consumer}
+| Consumer: Preparing bootsteps.
+| Consumer: Building graph...
+| Consumer: New boot order: {Connection, Events, Mingle, Gossip, Tasks, Control, Agent, Heart, event loop}
+| Worker: Starting Hub
+^-- substep ok
+| Worker: Starting Pool
+^-- substep ok
+| Worker: Starting Autoscaler
+^-- substep ok
+| Worker: Starting Consumer
+| Consumer: Starting Connection
+Connected to redis://:**@127.0.0.1:6379/3
+^-- substep ok
+| Consumer: Starting Events
+^-- substep ok
+| Consumer: Starting Mingle
+mingle: searching for neighbors
+mingle: all alone
+^-- substep ok
+| Consumer: Starting Gossip
+^-- substep ok
+| Consumer: Starting Tasks
+^-- substep ok
+| Consumer: Starting Control
+^-- substep ok
+| Consumer: Starting Heart
+^-- substep ok
+| Consumer: Starting event loop
+| Worker: Hub.register Autoscaler...
+| Worker: Hub.register Pool...
+App ready signal recv
+Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+celery@localhost ready.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.update_assets_hardware_info_period[3752ee88-9b99-49ce-8456-feb85b9b7ec0]  
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('assets.tasks.update_assets_hardware_info_period', '3752ee88-9b99-49ce-8456-feb85b9b7ec0', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': '3752ee88-9b99-49ce-8456-feb85b9b7ec0', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '3752ee88-9b99-49ce-8456-feb85b9b7ec0', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3587@localhost', 'reply_to': 'a67af92b-780c-36d7-971c-976e933a4abf', 'correlation_id': '3752ee88-9b99-49ce-8456-feb85b9b7ec0', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[3752ee88-9b99-49ce-8456-feb85b9b7ec0] pid:3604
+Received task: assets.tasks.test_admin_user_connectability_period[7f67e59b-f793-40d2-9892-b4dc36968784]  
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('assets.tasks.test_admin_user_connectability_period', '7f67e59b-f793-40d2-9892-b4dc36968784', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '7f67e59b-f793-40d2-9892-b4dc36968784', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '7f67e59b-f793-40d2-9892-b4dc36968784', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3587@localhost', 'reply_to': 'a67af92b-780c-36d7-971c-976e933a4abf', 'correlation_id': '7f67e59b-f793-40d2-9892-b4dc36968784', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[7f67e59b-f793-40d2-9892-b4dc36968784] pid:3603
+Received task: assets.tasks.test_system_user_connectability_period[566ac774-eedf-471a-978a-57e85452d412]  
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('assets.tasks.test_system_user_connectability_period', '566ac774-eedf-471a-978a-57e85452d412', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '566ac774-eedf-471a-978a-57e85452d412', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '566ac774-eedf-471a-978a-57e85452d412', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3587@localhost', 'reply_to': 'a67af92b-780c-36d7-971c-976e933a4abf', 'correlation_id': '566ac774-eedf-471a-978a-57e85452d412', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[566ac774-eedf-471a-978a-57e85452d412] pid:3606
+Received task: terminal.tasks.delete_terminal_status_period[f50bcbee-5b40-479e-b7f1-9d1597368723]  
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('terminal.tasks.delete_terminal_status_period', 'f50bcbee-5b40-479e-b7f1-9d1597368723', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': 'f50bcbee-5b40-479e-b7f1-9d1597368723', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'f50bcbee-5b40-479e-b7f1-9d1597368723', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3587@localhost', 'reply_to': 'a67af92b-780c-36d7-971c-976e933a4abf', 'correlation_id': 'f50bcbee-5b40-479e-b7f1-9d1597368723', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Received task: terminal.tasks.clean_orphan_session[6a2d4a00-e37b-4761-a788-c71b31b0cccb]  
+Scaling up 1 processes.
+Period task disabled, update assets hardware info pass
+Period task disabled, test admin user connectability pass
+Period task disabled, test system user connectability pass
+Task assets.tasks.update_assets_hardware_info_period[3752ee88-9b99-49ce-8456-feb85b9b7ec0] succeeded in 0.28776392500003567s: None
+Task assets.tasks.test_admin_user_connectability_period[7f67e59b-f793-40d2-9892-b4dc36968784] succeeded in 0.28047056699870154s: None
+Task assets.tasks.test_system_user_connectability_period[566ac774-eedf-471a-978a-57e85452d412] succeeded in 0.288293072997476s: None
+Task terminal.tasks.delete_terminal_status_period[f50bcbee-5b40-479e-b7f1-9d1597368723] succeeded in 0.3260845650002011s: None
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('terminal.tasks.clean_orphan_session', '6a2d4a00-e37b-4761-a788-c71b31b0cccb', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': '6a2d4a00-e37b-4761-a788-c71b31b0cccb', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '6a2d4a00-e37b-4761-a788-c71b31b0cccb', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3587@localhost', 'reply_to': 'a67af92b-780c-36d7-971c-976e933a4abf', 'correlation_id': '6a2d4a00-e37b-4761-a788-c71b31b0cccb', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+basic.qos: prefetch_count->20
+Task accepted: terminal.tasks.delete_terminal_status_period[f50bcbee-5b40-479e-b7f1-9d1597368723] pid:3605
+Task accepted: terminal.tasks.clean_orphan_session[6a2d4a00-e37b-4761-a788-c71b31b0cccb] pid:3604
+Task terminal.tasks.clean_orphan_session[6a2d4a00-e37b-4761-a788-c71b31b0cccb] succeeded in 0.17473930299456697s: None
+Received task: users.tasks.write_login_log_async[91096c97-b0fa-4622-8140-8dfd3af9438a]  
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('users.tasks.write_login_log_async', '91096c97-b0fa-4622-8140-8dfd3af9438a', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': '91096c97-b0fa-4622-8140-8dfd3af9438a', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '91096c97-b0fa-4622-8140-8dfd3af9438a', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3585@localhost', 'reply_to': 'c88a4f1b-cd30-3948-ae80-cdc7085be5b5', 'correlation_id': '91096c97-b0fa-4622-8140-8dfd3af9438a', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[91096c97-b0fa-4622-8140-8dfd3af9438a] pid:3607
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[91096c97-b0fa-4622-8140-8dfd3af9438a] succeeded in 0.2791184890011209s: None
+Received task: users.tasks.write_login_log_async[e1775f1d-56db-441c-b140-c32b1f2ca78e]  
+Scaling down 1 processes.
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('users.tasks.write_login_log_async', 'e1775f1d-56db-441c-b140-c32b1f2ca78e', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': 'e1775f1d-56db-441c-b140-c32b1f2ca78e', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'e1775f1d-56db-441c-b140-c32b1f2ca78e', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'guoyuanwei', 'mfa': 2, 'reason': 3, 'status': False, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3585@localhost', 'reply_to': 'c88a4f1b-cd30-3948-ae80-cdc7085be5b5', 'correlation_id': 'e1775f1d-56db-441c-b140-c32b1f2ca78e', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+basic.qos: prefetch_count->16
+Task accepted: users.tasks.write_login_log_async[e1775f1d-56db-441c-b140-c32b1f2ca78e] pid:3605
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 502 None
+Task users.tasks.write_login_log_async[e1775f1d-56db-441c-b140-c32b1f2ca78e] succeeded in 0.21484461100044427s: None
+Received task: users.tasks.write_login_log_async[5e5ef350-3361-4987-af01-cd6934508edb]  
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('users.tasks.write_login_log_async', '5e5ef350-3361-4987-af01-cd6934508edb', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': '5e5ef350-3361-4987-af01-cd6934508edb', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '5e5ef350-3361-4987-af01-cd6934508edb', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'guoyuanwei', 'mfa': 2, 'reason': 3, 'status': False, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3579@localhost', 'reply_to': '26eebb9a-8162-3309-a0e2-b224f1312a20', 'correlation_id': '5e5ef350-3361-4987-af01-cd6934508edb', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[5e5ef350-3361-4987-af01-cd6934508edb] pid:3605
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[5e5ef350-3361-4987-af01-cd6934508edb] succeeded in 0.2297497200052021s: None
+Received task: users.tasks.write_login_log_async[43d2af29-3b59-403b-b6f7-b06f24e22c91]  
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('users.tasks.write_login_log_async', '43d2af29-3b59-403b-b6f7-b06f24e22c91', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': '43d2af29-3b59-403b-b6f7-b06f24e22c91', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '43d2af29-3b59-403b-b6f7-b06f24e22c91', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'guoyuanwei', 'mfa': 2, 'reason': 3, 'status': False, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3579@localhost', 'reply_to': '26eebb9a-8162-3309-a0e2-b224f1312a20', 'correlation_id': '43d2af29-3b59-403b-b6f7-b06f24e22c91', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[43d2af29-3b59-403b-b6f7-b06f24e22c91] pid:3604
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 502 None
+Task users.tasks.write_login_log_async[43d2af29-3b59-403b-b6f7-b06f24e22c91] succeeded in 0.22581127699959325s: None
+Received task: users.tasks.write_login_log_async[634f864f-5768-4aee-bbad-2db460a0a8c4]  
+TaskPool: Apply <function _fast_trace_task at 0x10317bc80> (args:('users.tasks.write_login_log_async', '634f864f-5768-4aee-bbad-2db460a0a8c4', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': '634f864f-5768-4aee-bbad-2db460a0a8c4', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '634f864f-5768-4aee-bbad-2db460a0a8c4', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3585@localhost', 'reply_to': 'c88a4f1b-cd30-3948-ae80-cdc7085be5b5', 'correlation_id': '634f864f-5768-4aee-bbad-2db460a0a8c4', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[634f864f-5768-4aee-bbad-2db460a0a8c4] pid:3605
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[634f864f-5768-4aee-bbad-2db460a0a8c4] succeeded in 0.276311290996091s: None
+| Worker: Closing Hub...
+| Worker: Closing Pool...
+| Worker: Closing Autoscaler...
+| Worker: Closing Consumer...
+| Worker: Stopping Consumer...
+| Consumer: Closing Connection...
+| Consumer: Closing Events...
+| Consumer: Closing Mingle...
+| Consumer: Closing Gossip...
+| Consumer: Closing Tasks...
+| Consumer: Closing Control...
+| Consumer: Closing Heart...
+| Consumer: Closing event loop...
+| Consumer: Stopping event loop...
+| Consumer: Stopping Heart...
+| Consumer: Stopping Control...
+| Consumer: Stopping Tasks...
+Canceling task consumer...
+| Consumer: Stopping Gossip...
+| Consumer: Stopping Mingle...
+| Consumer: Stopping Events...
+| Consumer: Stopping Connection...
+| Worker: Stopping Autoscaler...
+| Worker: Stopping Pool...
+| Worker: Stopping Hub...
+| Consumer: Shutdown Heart...
+| Consumer: Shutdown Control...
+| Consumer: Shutdown Tasks...
+Canceling task consumer...
+Closing consumer channel...
+| Consumer: Shutdown Gossip...
+| Consumer: Shutdown Events...
+| Consumer: Shutdown Connection...
+App shutdown signal recv
+Clean need cleaned period tasks: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+removing tasks from inqueue until task handler finished
+| Worker: Preparing bootsteps.
+| Worker: Building graph...
+| Worker: New boot order: {Timer, Hub, Pool, Autoscaler, StateDB, Beat, Consumer}
+| Consumer: Preparing bootsteps.
+| Consumer: Building graph...
+| Consumer: New boot order: {Connection, Events, Mingle, Tasks, Control, Agent, Gossip, Heart, event loop}
+| Worker: Starting Hub
+^-- substep ok
+| Worker: Starting Pool
+^-- substep ok
+| Worker: Starting Autoscaler
+^-- substep ok
+| Worker: Starting Consumer
+| Consumer: Starting Connection
+Connected to redis://:**@127.0.0.1:6379/3
+^-- substep ok
+| Consumer: Starting Events
+^-- substep ok
+| Consumer: Starting Mingle
+mingle: searching for neighbors
+mingle: all alone
+^-- substep ok
+| Consumer: Starting Tasks
+^-- substep ok
+| Consumer: Starting Control
+^-- substep ok
+| Consumer: Starting Gossip
+^-- substep ok
+| Consumer: Starting Heart
+^-- substep ok
+| Consumer: Starting event loop
+| Worker: Hub.register Autoscaler...
+| Worker: Hub.register Pool...
+App ready signal recv
+Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+celery@localhost ready.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.update_assets_hardware_info_period[a5583467-cca1-44ac-8e24-03fb5a524334]  
+TaskPool: Apply <function _fast_trace_task at 0x1101d2c80> (args:('assets.tasks.update_assets_hardware_info_period', 'a5583467-cca1-44ac-8e24-03fb5a524334', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': 'a5583467-cca1-44ac-8e24-03fb5a524334', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'a5583467-cca1-44ac-8e24-03fb5a524334', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3658@localhost', 'reply_to': '3c18aeec-2f3a-3554-b378-abf9de7e252c', 'correlation_id': 'a5583467-cca1-44ac-8e24-03fb5a524334', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Received task: assets.tasks.test_admin_user_connectability_period[6ffac705-7c23-4dee-9c64-1a8b68e3ce74]  
+TaskPool: Apply <function _fast_trace_task at 0x1101d2c80> (args:('assets.tasks.test_admin_user_connectability_period', '6ffac705-7c23-4dee-9c64-1a8b68e3ce74', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '6ffac705-7c23-4dee-9c64-1a8b68e3ce74', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '6ffac705-7c23-4dee-9c64-1a8b68e3ce74', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3658@localhost', 'reply_to': '3c18aeec-2f3a-3554-b378-abf9de7e252c', 'correlation_id': '6ffac705-7c23-4dee-9c64-1a8b68e3ce74', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[a5583467-cca1-44ac-8e24-03fb5a524334] pid:3669
+Received task: assets.tasks.test_system_user_connectability_period[c12eb11f-1075-42cb-b703-eea24834d33e]  
+TaskPool: Apply <function _fast_trace_task at 0x1101d2c80> (args:('assets.tasks.test_system_user_connectability_period', 'c12eb11f-1075-42cb-b703-eea24834d33e', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': 'c12eb11f-1075-42cb-b703-eea24834d33e', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'c12eb11f-1075-42cb-b703-eea24834d33e', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3658@localhost', 'reply_to': '3c18aeec-2f3a-3554-b378-abf9de7e252c', 'correlation_id': 'c12eb11f-1075-42cb-b703-eea24834d33e', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[6ffac705-7c23-4dee-9c64-1a8b68e3ce74] pid:3668
+Received task: terminal.tasks.delete_terminal_status_period[86a6a5b4-523d-413c-ba44-1cc4205278d7]  
+TaskPool: Apply <function _fast_trace_task at 0x1101d2c80> (args:('terminal.tasks.delete_terminal_status_period', '86a6a5b4-523d-413c-ba44-1cc4205278d7', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': '86a6a5b4-523d-413c-ba44-1cc4205278d7', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '86a6a5b4-523d-413c-ba44-1cc4205278d7', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3658@localhost', 'reply_to': '3c18aeec-2f3a-3554-b378-abf9de7e252c', 'correlation_id': '86a6a5b4-523d-413c-ba44-1cc4205278d7', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[c12eb11f-1075-42cb-b703-eea24834d33e] pid:3671
+Received task: terminal.tasks.clean_orphan_session[a8c2a92d-bba0-4bbe-8d67-e2f601d5d0ae]  
+Scaling up 1 processes.
+Period task disabled, update assets hardware info pass
+Period task disabled, test admin user connectability pass
+Task assets.tasks.test_admin_user_connectability_period[6ffac705-7c23-4dee-9c64-1a8b68e3ce74] succeeded in 0.17575072500039823s: None
+Task assets.tasks.update_assets_hardware_info_period[a5583467-cca1-44ac-8e24-03fb5a524334] succeeded in 0.18417755300470162s: None
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[c12eb11f-1075-42cb-b703-eea24834d33e] succeeded in 0.183542293998471s: None
+TaskPool: Apply <function _fast_trace_task at 0x1101d2c80> (args:('terminal.tasks.clean_orphan_session', 'a8c2a92d-bba0-4bbe-8d67-e2f601d5d0ae', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': 'a8c2a92d-bba0-4bbe-8d67-e2f601d5d0ae', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'a8c2a92d-bba0-4bbe-8d67-e2f601d5d0ae', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3658@localhost', 'reply_to': '3c18aeec-2f3a-3554-b378-abf9de7e252c', 'correlation_id': 'a8c2a92d-bba0-4bbe-8d67-e2f601d5d0ae', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task terminal.tasks.delete_terminal_status_period[86a6a5b4-523d-413c-ba44-1cc4205278d7] succeeded in 0.22420159300236264s: None
+Task accepted: terminal.tasks.delete_terminal_status_period[86a6a5b4-523d-413c-ba44-1cc4205278d7] pid:3670
+basic.qos: prefetch_count->20
+Task accepted: terminal.tasks.clean_orphan_session[a8c2a92d-bba0-4bbe-8d67-e2f601d5d0ae] pid:3668
+Task terminal.tasks.clean_orphan_session[a8c2a92d-bba0-4bbe-8d67-e2f601d5d0ae] succeeded in 0.14165717599826166s: None
+Received task: users.tasks.write_login_log_async[713f4e35-fd4a-46cd-a158-0ab5273f2565]  
+TaskPool: Apply <function _fast_trace_task at 0x1101d2c80> (args:('users.tasks.write_login_log_async', '713f4e35-fd4a-46cd-a158-0ab5273f2565', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': '713f4e35-fd4a-46cd-a158-0ab5273f2565', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '713f4e35-fd4a-46cd-a158-0ab5273f2565', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'guoyuanwei', 'mfa': 2, 'reason': 3, 'status': False, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3654@localhost', 'reply_to': '15522f72-2f1f-3851-b7c8-8d74271c06e2', 'correlation_id': '713f4e35-fd4a-46cd-a158-0ab5273f2565', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[713f4e35-fd4a-46cd-a158-0ab5273f2565] pid:3669
+Starting new HTTP connection (1): ip.taobao.com
+Task users.tasks.write_login_log_async[713f4e35-fd4a-46cd-a158-0ab5273f2565] succeeded in 10.201119591998577s: None
+Scaling down 1 processes.
+basic.qos: prefetch_count->16
+Received task: users.tasks.write_login_log_async[ad591d58-5a9c-44c7-8f04-7a70dafc48ef]  
+TaskPool: Apply <function _fast_trace_task at 0x1101d2c80> (args:('users.tasks.write_login_log_async', 'ad591d58-5a9c-44c7-8f04-7a70dafc48ef', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': 'ad591d58-5a9c-44c7-8f04-7a70dafc48ef', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'ad591d58-5a9c-44c7-8f04-7a70dafc48ef', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3653@localhost', 'reply_to': '45565145-3d18-3a47-a421-9a1ee82f2060', 'correlation_id': 'ad591d58-5a9c-44c7-8f04-7a70dafc48ef', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[ad591d58-5a9c-44c7-8f04-7a70dafc48ef] pid:3669
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[ad591d58-5a9c-44c7-8f04-7a70dafc48ef] succeeded in 0.19041262999962782s: None
+| Worker: Closing Hub...
+| Worker: Closing Pool...
+| Worker: Closing Autoscaler...
+| Worker: Closing Consumer...
+| Worker: Stopping Consumer...
+| Consumer: Closing Connection...
+| Consumer: Closing Events...
+| Consumer: Closing Mingle...
+| Consumer: Closing Tasks...
+| Consumer: Closing Control...
+| Consumer: Closing Gossip...
+| Consumer: Closing Heart...
+| Consumer: Closing event loop...
+| Consumer: Stopping event loop...
+| Consumer: Stopping Heart...
+| Consumer: Stopping Gossip...
+| Consumer: Stopping Control...
+| Consumer: Stopping Tasks...
+Canceling task consumer...
+| Consumer: Stopping Mingle...
+| Consumer: Stopping Events...
+| Consumer: Stopping Connection...
+| Worker: Stopping Autoscaler...
+| Worker: Stopping Pool...
+| Worker: Stopping Hub...
+| Consumer: Shutdown Heart...
+| Consumer: Shutdown Gossip...
+| Consumer: Shutdown Control...
+| Consumer: Shutdown Tasks...
+Canceling task consumer...
+Closing consumer channel...
+| Consumer: Shutdown Events...
+| Consumer: Shutdown Connection...
+App shutdown signal recv
+Clean need cleaned period tasks: []
+removing tasks from inqueue until task handler finished
+| Worker: Preparing bootsteps.
+| Worker: Building graph...
+| Worker: New boot order: {StateDB, Beat, Timer, Hub, Pool, Autoscaler, Consumer}
+| Consumer: Preparing bootsteps.
+| Consumer: Building graph...
+| Consumer: New boot order: {Connection, Events, Heart, Mingle, Gossip, Agent, Tasks, Control, event loop}
+| Worker: Starting Hub
+^-- substep ok
+| Worker: Starting Pool
+^-- substep ok
+| Worker: Starting Autoscaler
+^-- substep ok
+| Worker: Starting Consumer
+| Consumer: Starting Connection
+Connected to redis://:**@127.0.0.1:6379/3
+^-- substep ok
+| Consumer: Starting Events
+^-- substep ok
+| Consumer: Starting Heart
+^-- substep ok
+| Consumer: Starting Mingle
+mingle: searching for neighbors
+mingle: all alone
+^-- substep ok
+| Consumer: Starting Gossip
+^-- substep ok
+| Consumer: Starting Tasks
+^-- substep ok
+| Consumer: Starting Control
+^-- substep ok
+| Consumer: Starting event loop
+| Worker: Hub.register Autoscaler...
+| Worker: Hub.register Pool...
+App ready signal recv
+Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+celery@localhost ready.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.update_assets_hardware_info_period[0c5a81fc-9a0f-4c8c-aeff-2aebb29acc9f]  
+TaskPool: Apply <function _fast_trace_task at 0x10b87ac80> (args:('assets.tasks.update_assets_hardware_info_period', '0c5a81fc-9a0f-4c8c-aeff-2aebb29acc9f', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': '0c5a81fc-9a0f-4c8c-aeff-2aebb29acc9f', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '0c5a81fc-9a0f-4c8c-aeff-2aebb29acc9f', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3729@localhost', 'reply_to': '705a11a9-8810-3bbd-81ad-2a1080d7bae8', 'correlation_id': '0c5a81fc-9a0f-4c8c-aeff-2aebb29acc9f', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Received task: assets.tasks.test_admin_user_connectability_period[2000a3dd-34ba-4283-9892-56b5d86a696d]  
+TaskPool: Apply <function _fast_trace_task at 0x10b87ac80> (args:('assets.tasks.test_admin_user_connectability_period', '2000a3dd-34ba-4283-9892-56b5d86a696d', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '2000a3dd-34ba-4283-9892-56b5d86a696d', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '2000a3dd-34ba-4283-9892-56b5d86a696d', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3729@localhost', 'reply_to': '705a11a9-8810-3bbd-81ad-2a1080d7bae8', 'correlation_id': '2000a3dd-34ba-4283-9892-56b5d86a696d', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[0c5a81fc-9a0f-4c8c-aeff-2aebb29acc9f] pid:3740
+Received task: assets.tasks.test_system_user_connectability_period[697795bc-50e0-4d8e-aedc-76b6e1aac30d]  
+TaskPool: Apply <function _fast_trace_task at 0x10b87ac80> (args:('assets.tasks.test_system_user_connectability_period', '697795bc-50e0-4d8e-aedc-76b6e1aac30d', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '697795bc-50e0-4d8e-aedc-76b6e1aac30d', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '697795bc-50e0-4d8e-aedc-76b6e1aac30d', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3729@localhost', 'reply_to': '705a11a9-8810-3bbd-81ad-2a1080d7bae8', 'correlation_id': '697795bc-50e0-4d8e-aedc-76b6e1aac30d', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[2000a3dd-34ba-4283-9892-56b5d86a696d] pid:3739
+Received task: terminal.tasks.delete_terminal_status_period[d1bd42b4-7490-40f0-aecd-c2bfedc05100]  
+TaskPool: Apply <function _fast_trace_task at 0x10b87ac80> (args:('terminal.tasks.delete_terminal_status_period', 'd1bd42b4-7490-40f0-aecd-c2bfedc05100', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': 'd1bd42b4-7490-40f0-aecd-c2bfedc05100', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'd1bd42b4-7490-40f0-aecd-c2bfedc05100', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3729@localhost', 'reply_to': '705a11a9-8810-3bbd-81ad-2a1080d7bae8', 'correlation_id': 'd1bd42b4-7490-40f0-aecd-c2bfedc05100', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[697795bc-50e0-4d8e-aedc-76b6e1aac30d] pid:3741
+Received task: terminal.tasks.clean_orphan_session[e931057f-95bb-43ed-8040-5b642f5ac3b1]  
+Scaling up 1 processes.
+TaskPool: Apply <function _fast_trace_task at 0x10b87ac80> (args:('terminal.tasks.clean_orphan_session', 'e931057f-95bb-43ed-8040-5b642f5ac3b1', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': 'e931057f-95bb-43ed-8040-5b642f5ac3b1', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'e931057f-95bb-43ed-8040-5b642f5ac3b1', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3729@localhost', 'reply_to': '705a11a9-8810-3bbd-81ad-2a1080d7bae8', 'correlation_id': 'e931057f-95bb-43ed-8040-5b642f5ac3b1', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+basic.qos: prefetch_count->20
+Task accepted: terminal.tasks.delete_terminal_status_period[d1bd42b4-7490-40f0-aecd-c2bfedc05100] pid:3742
+Period task disabled, test admin user connectability pass
+Period task disabled, update assets hardware info pass
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[697795bc-50e0-4d8e-aedc-76b6e1aac30d] succeeded in 0.188253098000132s: None
+Task assets.tasks.test_admin_user_connectability_period[2000a3dd-34ba-4283-9892-56b5d86a696d] succeeded in 0.18924411500483984s: None
+Task assets.tasks.update_assets_hardware_info_period[0c5a81fc-9a0f-4c8c-aeff-2aebb29acc9f] succeeded in 0.20070144499914022s: None
+Task accepted: terminal.tasks.clean_orphan_session[e931057f-95bb-43ed-8040-5b642f5ac3b1] pid:3743
+Task terminal.tasks.delete_terminal_status_period[d1bd42b4-7490-40f0-aecd-c2bfedc05100] succeeded in 0.18384082500415388s: None
+Task terminal.tasks.clean_orphan_session[e931057f-95bb-43ed-8040-5b642f5ac3b1] succeeded in 0.16461101299501024s: None
+Received task: users.tasks.write_login_log_async[e6fab947-28f2-4628-8f08-91514d070f3f]  
+Scaling down 1 processes.
+TaskPool: Apply <function _fast_trace_task at 0x10b87ac80> (args:('users.tasks.write_login_log_async', 'e6fab947-28f2-4628-8f08-91514d070f3f', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': 'e6fab947-28f2-4628-8f08-91514d070f3f', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'e6fab947-28f2-4628-8f08-91514d070f3f', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'guoyuanwei', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3725@localhost', 'reply_to': '5eef9845-204d-3b9a-b6f1-16f3df2c4566', 'correlation_id': 'e6fab947-28f2-4628-8f08-91514d070f3f', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+basic.qos: prefetch_count->16
+Task accepted: users.tasks.write_login_log_async[e6fab947-28f2-4628-8f08-91514d070f3f] pid:3740
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 502 None
+Task users.tasks.write_login_log_async[e6fab947-28f2-4628-8f08-91514d070f3f] succeeded in 0.2087291220013867s: None
+Received task: users.tasks.write_login_log_async[15132524-c7e5-4330-8ec5-67a989f22881]  
+TaskPool: Apply <function _fast_trace_task at 0x10b87ac80> (args:('users.tasks.write_login_log_async', '15132524-c7e5-4330-8ec5-67a989f22881', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': '15132524-c7e5-4330-8ec5-67a989f22881', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '15132524-c7e5-4330-8ec5-67a989f22881', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3725@localhost', 'reply_to': '5eef9845-204d-3b9a-b6f1-16f3df2c4566', 'correlation_id': '15132524-c7e5-4330-8ec5-67a989f22881', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[15132524-c7e5-4330-8ec5-67a989f22881] pid:3742
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[15132524-c7e5-4330-8ec5-67a989f22881] succeeded in 0.24124143499648198s: None
+| Worker: Closing Hub...
+| Worker: Closing Pool...
+| Worker: Closing Autoscaler...
+| Worker: Closing Consumer...
+| Worker: Stopping Consumer...
+| Consumer: Closing Connection...
+| Consumer: Closing Events...
+| Consumer: Closing Heart...
+| Consumer: Closing Mingle...
+| Consumer: Closing Gossip...
+| Consumer: Closing Tasks...
+| Consumer: Closing Control...
+| Consumer: Closing event loop...
+| Consumer: Stopping event loop...
+| Consumer: Stopping Control...
+| Consumer: Stopping Tasks...
+Canceling task consumer...
+| Consumer: Stopping Gossip...
+| Consumer: Stopping Mingle...
+| Consumer: Stopping Heart...
+| Consumer: Stopping Events...
+| Consumer: Stopping Connection...
+| Worker: Stopping Autoscaler...
+| Worker: Stopping Pool...
+| Worker: Stopping Hub...
+| Consumer: Shutdown Control...
+| Consumer: Shutdown Tasks...
+Canceling task consumer...
+Closing consumer channel...
+| Consumer: Shutdown Gossip...
+| Consumer: Shutdown Heart...
+| Consumer: Shutdown Events...
+| Consumer: Shutdown Connection...
+App shutdown signal recv
+Clean need cleaned period tasks: []
+removing tasks from inqueue until task handler finished
+| Worker: Preparing bootsteps.
+| Worker: Building graph...
+| Worker: New boot order: {Beat, Timer, Hub, Pool, Autoscaler, StateDB, Consumer}
+| Consumer: Preparing bootsteps.
+| Consumer: Building graph...
+| Consumer: New boot order: {Connection, Events, Heart, Mingle, Gossip, Tasks, Control, Agent, event loop}
+| Worker: Starting Hub
+^-- substep ok
+| Worker: Starting Pool
+^-- substep ok
+| Worker: Starting Autoscaler
+^-- substep ok
+| Worker: Starting Consumer
+| Consumer: Starting Connection
+Connected to redis://:**@127.0.0.1:6379/3
+^-- substep ok
+| Consumer: Starting Events
+^-- substep ok
+| Consumer: Starting Heart
+^-- substep ok
+| Consumer: Starting Mingle
+mingle: searching for neighbors
+mingle: all alone
+^-- substep ok
+| Consumer: Starting Gossip
+^-- substep ok
+| Consumer: Starting Tasks
+^-- substep ok
+| Consumer: Starting Control
+^-- substep ok
+| Consumer: Starting event loop
+| Worker: Hub.register Autoscaler...
+| Worker: Hub.register Pool...
+App ready signal recv
+Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+celery@localhost ready.
+basic.qos: prefetch_count->16
+Received task: assets.tasks.update_assets_hardware_info_period[851cc899-0d28-41bf-b69a-b72612e01a9e]  
+TaskPool: Apply <function _fast_trace_task at 0x106c45c80> (args:('assets.tasks.update_assets_hardware_info_period', '851cc899-0d28-41bf-b69a-b72612e01a9e', {'lang': 'py', 'task': 'assets.tasks.update_assets_hardware_info_period', 'id': '851cc899-0d28-41bf-b69a-b72612e01a9e', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '851cc899-0d28-41bf-b69a-b72612e01a9e', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3788@localhost', 'reply_to': '4a92ef24-48fb-3aa3-a310-f128103ea70f', 'correlation_id': '851cc899-0d28-41bf-b69a-b72612e01a9e', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Received task: assets.tasks.test_admin_user_connectability_period[91628868-9129-4b3f-8d68-4e783f27d7b1]  
+TaskPool: Apply <function _fast_trace_task at 0x106c45c80> (args:('assets.tasks.test_admin_user_connectability_period', '91628868-9129-4b3f-8d68-4e783f27d7b1', {'lang': 'py', 'task': 'assets.tasks.test_admin_user_connectability_period', 'id': '91628868-9129-4b3f-8d68-4e783f27d7b1', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '91628868-9129-4b3f-8d68-4e783f27d7b1', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3788@localhost', 'reply_to': '4a92ef24-48fb-3aa3-a310-f128103ea70f', 'correlation_id': '91628868-9129-4b3f-8d68-4e783f27d7b1', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.update_assets_hardware_info_period[851cc899-0d28-41bf-b69a-b72612e01a9e] pid:3799
+Received task: assets.tasks.test_system_user_connectability_period[38e81036-07af-4b24-a2b3-1595187e6a4a]  
+TaskPool: Apply <function _fast_trace_task at 0x106c45c80> (args:('assets.tasks.test_system_user_connectability_period', '38e81036-07af-4b24-a2b3-1595187e6a4a', {'lang': 'py', 'task': 'assets.tasks.test_system_user_connectability_period', 'id': '38e81036-07af-4b24-a2b3-1595187e6a4a', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '38e81036-07af-4b24-a2b3-1595187e6a4a', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3788@localhost', 'reply_to': '4a92ef24-48fb-3aa3-a310-f128103ea70f', 'correlation_id': '38e81036-07af-4b24-a2b3-1595187e6a4a', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_admin_user_connectability_period[91628868-9129-4b3f-8d68-4e783f27d7b1] pid:3798
+Received task: terminal.tasks.delete_terminal_status_period[0ce00e90-356d-434c-a213-371dbd47fe88]  
+TaskPool: Apply <function _fast_trace_task at 0x106c45c80> (args:('terminal.tasks.delete_terminal_status_period', '0ce00e90-356d-434c-a213-371dbd47fe88', {'lang': 'py', 'task': 'terminal.tasks.delete_terminal_status_period', 'id': '0ce00e90-356d-434c-a213-371dbd47fe88', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '0ce00e90-356d-434c-a213-371dbd47fe88', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3788@localhost', 'reply_to': '4a92ef24-48fb-3aa3-a310-f128103ea70f', 'correlation_id': '0ce00e90-356d-434c-a213-371dbd47fe88', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: assets.tasks.test_system_user_connectability_period[38e81036-07af-4b24-a2b3-1595187e6a4a] pid:3801
+Received task: terminal.tasks.clean_orphan_session[0117087d-8e13-4867-947a-691d341c82d4]  
+Scaling up 1 processes.
+TaskPool: Apply <function _fast_trace_task at 0x106c45c80> (args:('terminal.tasks.clean_orphan_session', '0117087d-8e13-4867-947a-691d341c82d4', {'lang': 'py', 'task': 'terminal.tasks.clean_orphan_session', 'id': '0117087d-8e13-4867-947a-691d341c82d4', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '0117087d-8e13-4867-947a-691d341c82d4', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': '{}', 'origin': 'gen3788@localhost', 'reply_to': '4a92ef24-48fb-3aa3-a310-f128103ea70f', 'correlation_id': '0117087d-8e13-4867-947a-691d341c82d4', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}}, b'\x80\x02)}q\x00}q\x01(X\t\x00\x00\x00callbacksq\x02NX\x08\x00\x00\x00errbacksq\x03NX\x05\x00\x00\x00chainq\x04NX\x05\x00\x00\x00chordq\x05Nu\x87q\x06.', 'application/x-python-serialize', 'binary') kwargs:{})
+Task accepted: terminal.tasks.delete_terminal_status_period[0ce00e90-356d-434c-a213-371dbd47fe88] pid:3800
+basic.qos: prefetch_count->20
+Period task disabled, test admin user connectability pass
+Task accepted: terminal.tasks.clean_orphan_session[0117087d-8e13-4867-947a-691d341c82d4] pid:3802
+Period task disabled, update assets hardware info pass
+Task assets.tasks.test_admin_user_connectability_period[91628868-9129-4b3f-8d68-4e783f27d7b1] succeeded in 0.19097504000092158s: None
+Task assets.tasks.update_assets_hardware_info_period[851cc899-0d28-41bf-b69a-b72612e01a9e] succeeded in 0.20209301100112498s: None
+Period task disabled, test system user connectability pass
+Task assets.tasks.test_system_user_connectability_period[38e81036-07af-4b24-a2b3-1595187e6a4a] succeeded in 0.1982410010023159s: None
+Task terminal.tasks.delete_terminal_status_period[0ce00e90-356d-434c-a213-371dbd47fe88] succeeded in 0.2414612889988348s: None
+Task terminal.tasks.clean_orphan_session[0117087d-8e13-4867-947a-691d341c82d4] succeeded in 0.1477681219985243s: None
+Received task: users.tasks.write_login_log_async[c21a27d0-1541-4d87-a269-e82bfc83a391]  
+TaskPool: Apply <function _fast_trace_task at 0x106c45c80> (args:('users.tasks.write_login_log_async', 'c21a27d0-1541-4d87-a269-e82bfc83a391', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': 'c21a27d0-1541-4d87-a269-e82bfc83a391', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': 'c21a27d0-1541-4d87-a269-e82bfc83a391', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'guoyuanwei', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3777@localhost', 'reply_to': 'c46e3cf4-374e-346a-8a99-5eee2c1931c6', 'correlation_id': 'c21a27d0-1541-4d87-a269-e82bfc83a391', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[c21a27d0-1541-4d87-a269-e82bfc83a391] pid:3798
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[c21a27d0-1541-4d87-a269-e82bfc83a391] succeeded in 0.21424113499961095s: None
+Scaling down 1 processes.
+basic.qos: prefetch_count->16
+Received task: users.tasks.write_login_log_async[70c65ab5-d876-42ba-b960-f9b80c1fe6f4]  
+TaskPool: Apply <function _fast_trace_task at 0x106c45c80> (args:('users.tasks.write_login_log_async', '70c65ab5-d876-42ba-b960-f9b80c1fe6f4', {'lang': 'py', 'task': 'users.tasks.write_login_log_async', 'id': '70c65ab5-d876-42ba-b960-f9b80c1fe6f4', 'eta': None, 'expires': None, 'group': None, 'retries': 0, 'timelimit': [None, None], 'root_id': '70c65ab5-d876-42ba-b960-f9b80c1fe6f4', 'parent_id': None, 'argsrepr': '()', 'kwargsrepr': "{'username': 'admin', 'mfa': 0, 'reason': 0, 'status': True, 'ip': '127.0.0.1', 'type': 'W', 'user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'}", 'origin': 'gen3778@localhost', 'reply_to': '40a71778-388f-37d1-b5b2-4f3afa50257c', 'correlation_id': '70c65ab5-d876-42ba-b960-f9b80c1fe6f4', 'delivery_info': {'exchange': '', 'routing_key': 'celery', 'priority': 0, 'redelivered': None}},... kwargs:{})
+Task accepted: users.tasks.write_login_log_async[70c65ab5-d876-42ba-b960-f9b80c1fe6f4] pid:3802
+Starting new HTTP connection (1): ip.taobao.com
+http://ip.taobao.com:80 "GET /service/getIpInfo.php?ip=127.0.0.1 HTTP/1.1" 200 None
+Task users.tasks.write_login_log_async[70c65ab5-d876-42ba-b960-f9b80c1fe6f4] succeeded in 0.24902260200178716s: None
