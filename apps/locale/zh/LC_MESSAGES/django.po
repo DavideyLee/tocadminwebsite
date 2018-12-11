@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jumpserver 0.3.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-11 09:31+0800\n"
+"POT-Creation-Date: 2018-12-11 09:37+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: ibuler <ibuler@qq.com>\n"
 "Language-Team: Jumpserver team<ibuler@qq.com>\n"
@@ -2592,20 +2592,11 @@ msgstr "资产授权资产列表"
 msgid "ZheJiang TaiLong Commercial Bank. "
 msgstr "浙江泰隆商业银行"
 
-#: apps/templates/_header_bar.html:31
-msgid "Help"
-msgstr "帮助"
+#: apps/templates/_header_bar.html:14
+msgid "Welcome to use toc system"
+msgstr "欢迎使用TOC管理系统"
 
-#: apps/templates/_header_bar.html:38
-#: apps/users/templates/users/_base_otp.html:29
-msgid "Docs"
-msgstr "文档"
-
-#: apps/templates/_header_bar.html:44
-msgid "Commercial support"
-msgstr "商业支持"
-
-#: apps/templates/_header_bar.html:89 apps/templates/_nav_user.html:9
+#: apps/templates/_header_bar.html:28 apps/templates/_nav_user.html:9
 #: apps/users/forms.py:148 apps/users/templates/users/_user.html:39
 #: apps/users/templates/users/first_login.html:39
 #: apps/users/templates/users/user_password_update.html:40
@@ -2617,24 +2608,24 @@ msgstr "商业支持"
 msgid "Profile"
 msgstr "个人信息"
 
-#: apps/templates/_header_bar.html:92
+#: apps/templates/_header_bar.html:31
 msgid "Admin page"
 msgstr "管理页面"
 
-#: apps/templates/_header_bar.html:94
+#: apps/templates/_header_bar.html:33
 msgid "User page"
 msgstr "用户页面"
 
-#: apps/templates/_header_bar.html:97
+#: apps/templates/_header_bar.html:36
 msgid "Logout"
 msgstr "注销登录"
 
-#: apps/templates/_header_bar.html:101 apps/users/templates/users/login.html:46
+#: apps/templates/_header_bar.html:40 apps/users/templates/users/login.html:46
 #: apps/users/templates/users/login.html:70
 msgid "Login"
 msgstr "登录"
 
-#: apps/templates/_header_bar.html:114 apps/templates/_nav.html:4
+#: apps/templates/_header_bar.html:53 apps/templates/_nav.html:4
 msgid "Dashboard"
 msgstr "仪表盘"
 
@@ -3392,6 +3383,10 @@ msgstr "Administrator是初始的超级管理员"
 #: apps/users/templates/users/_base_otp.html:27
 msgid "Home page"
 msgstr "首页"
+
+#: apps/users/templates/users/_base_otp.html:29
+msgid "Docs"
+msgstr "文档"
 
 #: apps/users/templates/users/_base_otp.html:44
 msgid "Security token validation"
@@ -4170,6 +4165,12 @@ msgstr "MFA 解绑成功"
 #: apps/users/views/user.py:585
 msgid "MFA disable success, return login page"
 msgstr "MFA 解绑成功，返回登录页面"
+
+#~ msgid "Help"
+#~ msgstr "帮助"
+
+#~ msgid "Commercial support"
+#~ msgstr "商业支持"
 
 #~ msgid " Beijing Duizhan Tech, Inc. "
 #~ msgstr " 北京堆栈科技有限公司 "
