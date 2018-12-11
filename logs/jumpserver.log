@@ -1,0 +1,31 @@
+2018-12-11 09:04:32 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:04:32 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:04:37 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:04:37 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:05:04 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:05:04 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:05:04 [signals_handler DEBUG] Receive setting item change
+2018-12-11 09:05:04 [signals_handler DEBUG]   - refresh setting: TERMINAL_COMMAND_STORAGE
+2018-12-11 09:05:44 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:05:44 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:05:47 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:05:47 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:05:52 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:05:52 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:05:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:05:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:05:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:05:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:05:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:05:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:05:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:05:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:06:02 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:06:02 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:06:02 [signals_handler DEBUG] Receive django ready signal
+2018-12-11 09:06:02 [signals_handler DEBUG]   - fresh all settings
+2018-12-11 09:06:08 [signal_handler DEBUG] App ready signal recv
+2018-12-11 09:06:08 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-11 09:06:09 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-11 09:06:09 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-11 09:06:09 [tasks DEBUG] Period task disabled, update assets hardware info pass
