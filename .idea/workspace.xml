@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5811e63e-625d-4601-97ed-ea0d1768ed6f" name="Default Changelist" comment="" />
+    <list default="true" id="5811e63e-625d-4601-97ed-ea0d1768ed6f" name="Default Changelist" comment="modify config.py for mysql and redis">
+      <change beforePath="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/templates/_copyright.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/_copyright.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/templates/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/templates/_nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/_nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/beat.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/beat.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/jumpserver.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/jumpserver.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-116">
@@ -19,7 +26,50 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/templates/_footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/templates/_copyright.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="92" selection-start-line="1" selection-start-column="92" selection-end-line="1" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/templates/_nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="2679" column="18" lean-forward="true" selection-start-line="2679" selection-start-column="18" selection-end-line="2679" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TaiL</find>
+      <find>TaiLon</find>
+      <find>events</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +78,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/apps/templates/_footer.html" />
+        <option value="$PROJECT_DIR$/apps/templates/_copyright.html" />
+        <option value="$PROJECT_DIR$/apps/templates/_nav.html" />
+        <option value="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po" />
       </list>
     </option>
   </component>
@@ -53,6 +107,27 @@
               <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
               <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="locale" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="locale" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocadminwebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="locale" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+              <item name="LC_MESSAGES" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tocadminwebsite" type="b2602c69:ProjectViewProjectNode" />
@@ -99,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544487282008</updated>
-      <workItem from="1544487283893" duration="2013000" />
+      <workItem from="1544487283893" duration="2834000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1544487374435</created>
@@ -115,14 +190,22 @@
       <option name="project" value="LOCAL" />
       <updated>1544487981699</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modify config.py for mysql and redis">
+      <created>1544490979153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544490979153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2013000" />
+    <option name="totallyTimeSpent" value="2834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1260" height="715" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958949" />
@@ -160,6 +243,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-116">
           <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/_copyright.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="92" selection-start-line="1" selection-start-column="92" selection-end-line="1" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/templates/_nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="2679" column="18" lean-forward="true" selection-start-line="2679" selection-start-column="18" selection-end-line="2679" selection-end-column="18" />
         </state>
       </provider>
     </entry>
