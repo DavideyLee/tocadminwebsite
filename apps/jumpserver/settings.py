@@ -59,6 +59,7 @@ INSTALLED_APPS = [
     'orgs.apps.OrgsConfig',
     'users.apps.UsersConfig',
     'assets.apps.AssetsConfig',
+    'event.apps.EventConfig',
     'perms.apps.PermsConfig',
     'ops.apps.OpsConfig',
     'common.apps.CommonConfig',

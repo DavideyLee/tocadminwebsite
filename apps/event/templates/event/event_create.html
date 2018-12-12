@@ -1,0 +1,42 @@
+{% extends '_base_create_update.html' %}
+{% load static %}
+{% load bootstrap3 %}
+{% load i18n %}
+{% load asset_tags %}
+{% load common_tags %}
+
+{% block form %}
+    <form action="" method="post" class="form-horizontal">
+    {% if form.non_field_errors %}
+         <div class="alert alert-danger">
+             {{ form.non_field_errors }}
+         </div>
+    {% endif %}
+    {% csrf_token %}
+    <h3>{% trans 'Basic' %}</h3>
+    {% bootstrap_field form.title layout="horizontal" %}
+    {% bootstrap_field form.finish_time layout="horizontal" %}
+    {% bootstrap_field form.event_starttime layout="horizontal" %}
+    {% bootstrap_field form.event_endtime layout="horizontal" %}
+    {% bootstrap_field form.system_name layout="horizontal" %}
+    {% bootstrap_field form.event_level layout="horizontal" %}
+    {% bootstrap_field form.event_leader layout="horizontal" %}
+    {% bootstrap_field form.comment layout="horizontal" %}
+    {% bootstrap_field form.event_cause layout="horizontal" %}
+    {% bootstrap_field form.event_state layout="horizontal" %}
+    {% bootstrap_field form.solve_event_comment layout="horizontal" %}
+    {% bootstrap_field form.avoid_event_comment layout="horizontal" %}
+
+    <div class="hr-line-dashed"></div>
+    <div class="form-group">
+        <div class="col-sm-4 col-sm-offset-2">
+            <button class="btn btn-default" type="reset"> {% trans 'Reset' %}</button>
+            <button id="submit_button" class="btn btn-primary" type="submit">{% trans 'Submit' %}</button>
+        </div>
+    </div>
+    </form>
+{% endblock %}
+
+{% block custom_foot_js %}
+
+{% endblock %}

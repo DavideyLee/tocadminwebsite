@@ -65,11 +65,13 @@ v1_api_patterns = [
     path('audits/v1/', include('audits.urls.api_urls', namespace='api-audits')),
     path('orgs/v1/', include('orgs.urls.api_urls', namespace='api-orgs')),
     path('common/v1/', include('common.urls.api_urls', namespace='api-common')),
+    path('events/v1/', include('event.urls.api_urls', namespace='api-events')),
 ]
 
 app_view_patterns = [
     path('users/', include('users.urls.views_urls', namespace='users')),
     path('assets/', include('assets.urls.views_urls', namespace='assets')),
+    path('events/', include('event.urls.views_urls', namespace='events')),
     path('perms/', include('perms.urls.views_urls', namespace='perms')),
     path('terminal/', include('terminal.urls.views_urls', namespace='terminal')),
     path('ops/', include('ops.urls.view_urls', namespace='ops')),

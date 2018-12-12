@@ -463,3 +463,1293 @@
 2018-12-12 10:44:06 [tasks DEBUG] Period task disabled, test admin user connectability pass
 2018-12-12 10:44:06 [tasks DEBUG] Period task disabled, update assets hardware info pass
 2018-12-12 10:44:06 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 11:44:06 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 11:44:06 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 11:44:06 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 12:44:06 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 12:44:06 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 12:44:06 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 13:44:06 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 13:44:06 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 13:44:06 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 13:56:29 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 13:56:29 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 13:56:29 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 13:56:29 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 13:56:29 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 13:56:29 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 13:56:29 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 13:56:29 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 13:59:01 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 13:59:01 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 13:59:02 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 13:59:02 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 13:59:02 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 13:59:02 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 13:59:03 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 13:59:03 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:01:19 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:01:19 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:01:22 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:01:22 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:01:25 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:01:25 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:03:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:03:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:03:19 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:03:19 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:03:22 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:03:22 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:07:05 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:07:05 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:07:09 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:07:09 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:07:12 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:07:12 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:11:18 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:11:18 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:11:21 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:11:21 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:11:24 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:11:24 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:12:34 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:12:34 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:12:38 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:12:38 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:12:42 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:12:42 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:13:05 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:13:05 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:13:09 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:13:09 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:13:13 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:13:13 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:15:37 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:15:37 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:23:44 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:23:44 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:23:44 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:23:44 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:23:45 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:23:45 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:23:45 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:23:45 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:15 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:15 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:39 [signal_handler DEBUG] App shutdown signal recv
+2018-12-12 14:27:39 [signal_handler DEBUG] Clean need cleaned period tasks: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period]
+2018-12-12 14:27:45 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:45 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:48 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:48 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:53 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:53 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:27:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:27:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:00 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:00 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:02 [signal_handler DEBUG] App ready signal recv
+2018-12-12 14:28:02 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-12 14:28:03 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 14:28:03 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 14:28:03 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 14:28:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:20 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:20 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:24 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:24 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:34 [signal_handler DEBUG] App shutdown signal recv
+2018-12-12 14:28:34 [signal_handler DEBUG] Clean need cleaned period tasks: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-12 14:28:40 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:40 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:43 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:43 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:48 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:48 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:53 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:53 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:54 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:54 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:54 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:54 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:54 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:54 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:54 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:54 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:55 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:28:55 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:28:57 [signal_handler DEBUG] App ready signal recv
+2018-12-12 14:28:57 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-12 14:28:58 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 14:28:58 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 14:28:58 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 14:31:28 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:31:28 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:31:28 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:31:28 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:31:29 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:31:29 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:26 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:26 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:32 [signal_handler DEBUG] App shutdown signal recv
+2018-12-12 14:40:32 [signal_handler DEBUG] Clean need cleaned period tasks: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period]
+2018-12-12 14:40:38 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:38 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:41 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:41 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:46 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:46 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:52 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:52 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:52 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:52 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:52 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:40:52 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:40:55 [signal_handler DEBUG] App ready signal recv
+2018-12-12 14:40:55 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-12 14:40:56 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 14:40:56 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 14:40:56 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 14:41:56 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:41:56 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:44:42 [signal_handler DEBUG] App shutdown signal recv
+2018-12-12 14:44:42 [signal_handler DEBUG] Clean need cleaned period tasks: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-12 14:44:48 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:44:48 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:44:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:44:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:44:56 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:44:56 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:44:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:44:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:44:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:44:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:45:02 [signal_handler DEBUG] App ready signal recv
+2018-12-12 14:45:02 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-12 14:45:03 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 14:45:03 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 14:45:03 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 14:46:09 [signal_handler DEBUG] App shutdown signal recv
+2018-12-12 14:46:09 [signal_handler DEBUG] Clean need cleaned period tasks: []
+2018-12-12 14:46:31 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:46:31 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:46:33 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:46:33 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:46:39 [basehttp INFO] "GET / HTTP/1.1" 200 25998
+2018-12-12 14:46:39 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 14:46:42 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 17525
+2018-12-12 14:46:42 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 14:46:42 [basehttp INFO] "GET /events/event/?draw=1&search=&limit=15&offset=0&_=1544597202522 HTTP/1.1" 200 17525
+2018-12-12 14:47:10 [basehttp INFO] "GET /users/user-group/ HTTP/1.1" 200 17562
+2018-12-12 14:47:10 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 14:47:10 [basehttp INFO] "GET /api/users/v1/groups/?draw=1&search=&limit=15&offset=0&_=1544597230569 HTTP/1.1" 200 224
+2018-12-12 14:47:15 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 17525
+2018-12-12 14:47:15 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 14:47:15 [basehttp INFO] "GET /events/event/?draw=1&search=&limit=15&offset=0&_=1544597235419 HTTP/1.1" 200 17525
+2018-12-12 14:51:43 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 17531
+2018-12-12 14:51:43 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 14:51:44 [basehttp INFO] "GET /events/event/?draw=1&search=&limit=15&offset=0&_=1544597503944 HTTP/1.1" 200 17531
+2018-12-12 14:57:19 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:57:19 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:57:39 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 14:57:39 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 14:57:56 [basehttp INFO] "GET / HTTP/1.1" 200 25998
+2018-12-12 14:57:56 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 14:57:59 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 17544
+2018-12-12 14:57:59 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 14:58:00 [basehttp INFO] "GET /events/event/?draw=1&search=&limit=15&offset=0&_=1544597879815 HTTP/1.1" 200 17544
+2018-12-12 15:02:11 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:02:11 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:03:53 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:03:53 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:04:00 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:04:00 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:27:35 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 15:27:35 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:27:35 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544599655464 HTTP/1.1" 200 1111
+2018-12-12 15:27:39 [basehttp INFO] "GET /users/profile/ HTTP/1.1" 200 22280
+2018-12-12 15:27:39 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:28:02 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 15:28:02 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:28:02 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544599682184 HTTP/1.1" 200 1111
+2018-12-12 15:28:03 [basehttp INFO] "GET /users/user/create/ HTTP/1.1" 200 17396
+2018-12-12 15:28:03 [basehttp INFO] "GET /static/js/pwstrength-bootstrap.js HTTP/1.1" 304 0
+2018-12-12 15:28:03 [basehttp INFO] "GET /static/css/plugins/daterangepicker/daterangepicker.css HTTP/1.1" 304 0
+2018-12-12 15:28:03 [basehttp INFO] "GET /static/js/plugins/datepicker/bootstrap-datepicker.js HTTP/1.1" 304 0
+2018-12-12 15:28:03 [basehttp INFO] "GET /static/js/plugins/daterangepicker/moment.min.js HTTP/1.1" 304 0
+2018-12-12 15:28:03 [basehttp INFO] "GET /static/js/plugins/daterangepicker/daterangepicker.min.js HTTP/1.1" 304 0
+2018-12-12 15:28:03 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:28:48 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 15:28:48 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:28:49 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544599728924 HTTP/1.1" 200 1111
+2018-12-12 15:31:36 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:31:36 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:31:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:31:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:32:14 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:32:14 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:36:42 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:36:42 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:49:04 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24446
+2018-12-12 15:49:04 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:49:05 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544600944775 HTTP/1.1" 200 1111
+2018-12-12 15:50:38 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24504
+2018-12-12 15:50:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:50:38 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544601038513 HTTP/1.1" 200 1111
+2018-12-12 15:53:04 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24374
+2018-12-12 15:53:04 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:53:04 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544601184517 HTTP/1.1" 200 1111
+2018-12-12 15:55:10 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24374
+2018-12-12 15:55:10 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 15:55:10 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544601310433 HTTP/1.1" 200 1111
+2018-12-12 15:59:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:59:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:59:31 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:59:31 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:59:35 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:59:35 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 15:59:59 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 15:59:59 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 16:04:25 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 16:04:25 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 16:04:35 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 16:04:35 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 16:04:37 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 16:04:37 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 16:04:42 [basehttp INFO] "GET / HTTP/1.1" 200 25998
+2018-12-12 16:04:42 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:04:45 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24344
+2018-12-12 16:04:45 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:04:45 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544601885295 HTTP/1.1" 200 1111
+2018-12-12 16:05:38 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 16:05:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:05:38 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544601938080 HTTP/1.1" 200 1111
+2018-12-12 16:05:42 [basehttp INFO] "GET /users/user/update/?users_id= HTTP/1.1" 200 15370
+2018-12-12 16:05:42 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:06:41 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 16:06:41 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:06:41 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544602001433 HTTP/1.1" 200 1111
+2018-12-12 16:06:43 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24344
+2018-12-12 16:06:44 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:06:44 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544602004043 HTTP/1.1" 200 1111
+2018-12-12 16:08:13 [basehttp INFO] "GET /api/users/v1/users/?draw=2&order=name&search=&limit=15&offset=0&_=1544602004044 HTTP/1.1" 200 1111
+2018-12-12 16:08:14 [basehttp INFO] "GET /api/users/v1/users/?draw=3&order=-name&search=&limit=15&offset=0&_=1544602004045 HTTP/1.1" 200 1111
+2018-12-12 16:08:16 [basehttp INFO] "GET /api/users/v1/users/?draw=4&order=username&search=&limit=15&offset=0&_=1544602004046 HTTP/1.1" 200 1111
+2018-12-12 16:08:16 [basehttp INFO] "GET /api/users/v1/users/?draw=5&order=-username&search=&limit=15&offset=0&_=1544602004047 HTTP/1.1" 200 1111
+2018-12-12 16:10:20 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24344
+2018-12-12 16:10:20 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:10:20 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544602220602 HTTP/1.1" 200 1111
+2018-12-12 16:10:23 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24344
+2018-12-12 16:10:23 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:10:23 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544602223330 HTTP/1.1" 200 1111
+2018-12-12 16:15:36 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 16:15:36 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:15:37 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544602536878 HTTP/1.1" 200 1111
+2018-12-12 16:15:39 [basehttp INFO] "GET /users/user/e75effe5-feb2-4831-b512-9f7d19628f5a/ HTTP/1.1" 200 33249
+2018-12-12 16:15:39 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:15:41 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 16:15:41 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:15:41 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544602541425 HTTP/1.1" 200 1111
+2018-12-12 16:44:21 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:44:21 [basehttp INFO] "GET /static/img/topLogo.png HTTP/1.1" 304 0
+2018-12-12 16:44:21 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:44:21 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604261470 HTTP/1.1" 200 1111
+2018-12-12 16:45:18 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 16:45:18 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:45:18 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604318540 HTTP/1.1" 200 1111
+2018-12-12 16:47:59 [basehttp INFO] "GET /users/user/e75effe5-feb2-4831-b512-9f7d19628f5a/update/ HTTP/1.1" 200 19855
+2018-12-12 16:47:59 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:48:01 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 16:48:01 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:48:01 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604481363 HTTP/1.1" 200 1111
+2018-12-12 16:51:25 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:25 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:25 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604685496 HTTP/1.1" 200 1111
+2018-12-12 16:51:27 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:27 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604687531 HTTP/1.1" 200 1111
+2018-12-12 16:51:28 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:28 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:28 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604688418 HTTP/1.1" 200 1111
+2018-12-12 16:51:29 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:29 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:29 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604689089 HTTP/1.1" 200 1111
+2018-12-12 16:51:29 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:29 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:29 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:29 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604689562 HTTP/1.1" 200 1111
+2018-12-12 16:51:29 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:29 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:30 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604689947 HTTP/1.1" 200 1111
+2018-12-12 16:51:30 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:30 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:30 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604690318 HTTP/1.1" 200 1111
+2018-12-12 16:51:30 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:30 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:30 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604690729 HTTP/1.1" 200 1111
+2018-12-12 16:51:31 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:31 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:31 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604691130 HTTP/1.1" 200 1111
+2018-12-12 16:51:31 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:31 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:31 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604691512 HTTP/1.1" 200 1111
+2018-12-12 16:51:31 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:31 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:32 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604691920 HTTP/1.1" 200 1111
+2018-12-12 16:51:32 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:32 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:32 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604692528 HTTP/1.1" 200 1111
+2018-12-12 16:51:33 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:33 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:33 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604693123 HTTP/1.1" 200 1111
+2018-12-12 16:51:33 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:33 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:33 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604693800 HTTP/1.1" 200 1111
+2018-12-12 16:51:34 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:34 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:34 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604694403 HTTP/1.1" 200 1111
+2018-12-12 16:51:35 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:35 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:35 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604695374 HTTP/1.1" 200 1111
+2018-12-12 16:51:36 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:36 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:36 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604696180 HTTP/1.1" 200 1111
+2018-12-12 16:51:36 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:36 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:37 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604696973 HTTP/1.1" 200 1111
+2018-12-12 16:51:37 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24347
+2018-12-12 16:51:37 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 16:51:38 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544604697931 HTTP/1.1" 200 1111
+2018-12-12 19:34:07 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 19:34:07 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 19:34:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 19:34:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 19:34:34 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 19:34:34 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 19:34:41 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 19:34:41 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 19:34:43 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 19:34:43 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 19:34:50 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-12-12 19:34:50 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4019
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 18130
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 31000
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 200 16774
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 200 3526
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 114011
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 200 25456
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 34653
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 200 84251
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 16141
+2018-12-12 19:34:50 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:34:50 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 200 1287123
+2018-12-12 19:34:51 [log WARNING] Not Found: /favicon.ico
+2018-12-12 19:34:51 [basehttp WARNING] "GET /favicon.ico HTTP/1.1" 404 4499
+2018-12-12 19:35:10 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 19:35:10 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 19:35:12 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 19:35:12 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 19:35:16 [basehttp INFO] "GET / HTTP/1.1" 302 0
+2018-12-12 19:35:16 [basehttp INFO] "GET /users/login/?next=/ HTTP/1.1" 200 4019
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 114011
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/css/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/css/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 18130
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 31000
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/css/plugins/vaildator/jquery.validator.css HTTP/1.1" 200 3526
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/css/plugins/datatables/datatables.min.css HTTP/1.1" 200 16774
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/css/style.css HTTP/1.1" 200 173145
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/css/jumpserver.css HTTP/1.1" 200 7099
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/js/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 16141
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 34653
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/js/jquery-2.1.1.js HTTP/1.1" 200 84251
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/js/jumpserver.js HTTP/1.1" 200 25456
+2018-12-12 19:35:16 [basehttp INFO] "GET /static/js/plugins/datatables/datatables.min.js HTTP/1.1" 200 1287123
+2018-12-12 19:35:16 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:35:17 [log WARNING] Not Found: /favicon.ico
+2018-12-12 19:35:17 [basehttp WARNING] "GET /favicon.ico HTTP/1.1" 404 4501
+2018-12-12 19:35:26 [basehttp INFO] "POST /users/login/?next=/ HTTP/1.1" 302 0
+2018-12-12 19:35:26 [basehttp INFO] "GET / HTTP/1.1" 200 25998
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/img/topLogo.png HTTP/1.1" 200 3258
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/img/avatar/admin.png HTTP/1.1" 200 11750
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/js/plugins/metisMenu/jquery.metisMenu.js HTTP/1.1" 200 3984
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/js/plugins/toastr/toastr.min.js HTTP/1.1" 200 5216
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/js/inspinia.js HTTP/1.1" 200 4636
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/js/plugins/echarts/echarts.js HTTP/1.1" 200 363230
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/img/header-profile.png HTTP/1.1" 200 5877
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/css/patterns/header-profile.png HTTP/1.1" 200 5877
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160
+2018-12-12 19:35:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/js/plugins/echarts/chart/line.js HTTP/1.1" 200 12928
+2018-12-12 19:35:27 [basehttp INFO] "GET /static/js/plugins/echarts/chart/pie.js HTTP/1.1" 200 12159
+2018-12-12 19:35:30 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24352
+2018-12-12 19:35:31 [basehttp INFO] "GET /static/css/plugins/select2/select2.min.css HTTP/1.1" 200 15196
+2018-12-12 19:35:31 [basehttp INFO] "GET /static/js/plugins/select2/select2.full.min.js HTTP/1.1" 200 75005
+2018-12-12 19:35:31 [basehttp INFO] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 15248
+2018-12-12 19:35:31 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:35:31 [basehttp INFO] "GET /static/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23424
+2018-12-12 19:35:31 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544614531071 HTTP/1.1" 200 1111
+2018-12-12 19:40:14 [basehttp INFO] "GET /users/user/de6e0d09-88a8-46cc-bf4a-8358c3287800/update/ HTTP/1.1" 200 19845
+2018-12-12 19:40:14 [basehttp INFO] "GET /static/js/pwstrength-bootstrap.js HTTP/1.1" 200 29322
+2018-12-12 19:40:14 [basehttp INFO] "GET /static/css/plugins/daterangepicker/daterangepicker.css HTTP/1.1" 200 8401
+2018-12-12 19:40:14 [basehttp INFO] "GET /static/js/plugins/datepicker/bootstrap-datepicker.js HTTP/1.1" 200 46821
+2018-12-12 19:40:14 [basehttp INFO] "GET /static/js/plugins/daterangepicker/moment.min.js HTTP/1.1" 200 51465
+2018-12-12 19:40:14 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:40:14 [basehttp INFO] "GET /static/js/plugins/daterangepicker/daterangepicker.min.js HTTP/1.1" 200 31764
+2018-12-12 19:40:25 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544614825577 HTTP/1.1" 200 1111
+2018-12-12 19:42:48 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24352
+2018-12-12 19:42:48 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:42:49 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544614968844 HTTP/1.1" 200 1111
+2018-12-12 19:42:52 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24352
+2018-12-12 19:42:52 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:42:53 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544614972873 HTTP/1.1" 200 1111
+2018-12-12 19:43:03 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24352
+2018-12-12 19:43:03 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:43:03 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544614983290 HTTP/1.1" 200 1111
+2018-12-12 19:43:49 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 19:43:50 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:43:50 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544615030020 HTTP/1.1" 200 1111
+2018-12-12 19:43:52 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24352
+2018-12-12 19:43:52 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:43:52 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544615032583 HTTP/1.1" 200 1111
+2018-12-12 19:44:01 [basehttp INFO] "POST /users/user/export/ HTTP/1.1" 200 72
+2018-12-12 19:44:01 [basehttp INFO] "GET /users/user/export/?spm=0b2632df570642489801326c0453d27b HTTP/1.1" 200 265
+2018-12-12 19:46:27 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 19:46:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:46:28 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544615187855 HTTP/1.1" 200 1111
+2018-12-12 19:46:29 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 19:46:29 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:46:30 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544615189797 HTTP/1.1" 200 1111
+2018-12-12 19:46:32 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 19:46:32 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 19:46:32 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544615192527 HTTP/1.1" 200 1111
+2018-12-12 20:00:35 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 20:00:35 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:00:36 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544616035903 HTTP/1.1" 200 1111
+2018-12-12 20:01:25 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 20:01:25 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:01:26 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544616085833 HTTP/1.1" 200 1111
+2018-12-12 20:01:27 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 20:01:28 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:01:28 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544616088014 HTTP/1.1" 200 1111
+2018-12-12 20:01:33 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 20:01:33 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:01:33 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544616093260 HTTP/1.1" 200 1111
+2018-12-12 20:15:35 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 20:15:35 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:15:35 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544616935589 HTTP/1.1" 200 1111
+2018-12-12 20:15:43 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 20:15:43 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:15:44 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544616944002 HTTP/1.1" 200 1111
+2018-12-12 20:15:48 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24360
+2018-12-12 20:15:48 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:15:48 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544616948519 HTTP/1.1" 200 1111
+2018-12-12 20:22:11 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24367
+2018-12-12 20:22:11 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:22:16 [basehttp INFO] "GET /users/user/ HTTP/1.1" 200 24339
+2018-12-12 20:22:16 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:22:16 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617336480 HTTP/1.1" 200 1111
+2018-12-12 20:22:19 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24367
+2018-12-12 20:22:20 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:22:22 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24367
+2018-12-12 20:22:22 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:22:44 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24346
+2018-12-12 20:22:44 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:22:45 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24346
+2018-12-12 20:22:45 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:26:23 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24361
+2018-12-12 20:26:23 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:26:23 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617583343 HTTP/1.1" 200 1111
+2018-12-12 20:26:37 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24382
+2018-12-12 20:26:38 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:26:38 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617598061 HTTP/1.1" 200 1111
+2018-12-12 20:30:50 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:30:50 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:30:52 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:30:52 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:30:52 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:30:52 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:31:30 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:31:30 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:31:31 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:31:31 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:31:52 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:31:52 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:31:53 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:31:53 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:06 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:32:06 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:14 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24383
+2018-12-12 20:32:14 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:27 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24382
+2018-12-12 20:32:27 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:27 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617947500 HTTP/1.1" 200 1111
+2018-12-12 20:32:38 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24387
+2018-12-12 20:32:39 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:39 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617959001 HTTP/1.1" 200 1111
+2018-12-12 20:32:40 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24387
+2018-12-12 20:32:40 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:40 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617960273 HTTP/1.1" 200 1111
+2018-12-12 20:32:41 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24387
+2018-12-12 20:32:41 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:41 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617961334 HTTP/1.1" 200 1111
+2018-12-12 20:32:42 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24387
+2018-12-12 20:32:42 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:42 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617962093 HTTP/1.1" 200 1111
+2018-12-12 20:32:42 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24387
+2018-12-12 20:32:43 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:32:43 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544617963061 HTTP/1.1" 200 1111
+2018-12-12 20:35:55 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24387
+2018-12-12 20:35:55 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:35:55 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544618155371 HTTP/1.1" 200 1111
+2018-12-12 20:35:57 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24387
+2018-12-12 20:35:57 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:35:57 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544618157108 HTTP/1.1" 200 1111
+2018-12-12 20:35:58 [basehttp INFO] "GET /events/event/ HTTP/1.1" 200 24387
+2018-12-12 20:35:58 [basehttp INFO] "GET /zh-hans/jsi18n/ HTTP/1.1" 200 9610
+2018-12-12 20:35:58 [basehttp INFO] "GET /api/users/v1/users/?draw=1&search=&limit=15&offset=0&_=1544618158113 HTTP/1.1" 200 1111
+2018-12-12 20:47:21 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 20:47:21 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 20:49:40 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 20:49:40 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 20:53:29 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 20:53:29 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 20:53:55 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 20:53:55 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:14:25 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:14:25 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:15:28 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:15:28 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:07 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:07 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:12 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:12 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:17 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:17 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:27 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:17:27 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:17:32 [signal_handler DEBUG] App ready signal recv
+2018-12-12 22:17:32 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-12 22:17:33 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 22:17:33 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 22:17:33 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 22:17:54 [log WARNING] Not Found: /api
+2018-12-12 22:18:05 [log ERROR] Internal Server Error: /api/v1/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/rest_framework/response.py", line 57, in rendered_content
+    assert renderer, ".accepted_renderer not set on Response"
+AssertionError: .accepted_renderer not set on Response
+2018-12-12 22:18:31 [log WARNING] Not Found: /api/V1
+2018-12-12 22:18:55 [log WARNING] Not Found: /api/V1/events/
+2018-12-12 22:23:16 [log ERROR] Internal Server Error: /api/V1/events/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/deprecation.py", line 90, in __call__
+    response = self.process_request(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/middleware/locale.py", line 20, in process_request
+    i18n_patterns_used, prefixed_default_language = is_language_prefix_patterns_used(urlconf)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/conf/urls/i18n.py", line 31, in is_language_prefix_patterns_used
+    for url_pattern in get_resolver(urlconf).url_patterns:
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/resolvers.py", line 533, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/resolvers.py", line 526, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/bruce/code/tocadminwebsite/apps/jumpserver/urls.py", line 68, in <module>
+    path('events/v1/', include('event.urls.api_urls', namespace='api-events')),
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/bruce/code/tocadminwebsite/apps/event/urls/api_urls.py", line 4, in <module>
+    from .. import api
+  File "/Users/bruce/code/tocadminwebsite/apps/event/api.py", line 8, in <module>
+    from serializers import EventSerializer
+ModuleNotFoundError: No module named 'serializers'
+2018-12-12 22:23:17 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:23:17 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:23:17 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:23:17 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:26:56 [log ERROR] Internal Server Error: /api/V1/events/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/deprecation.py", line 90, in __call__
+    response = self.process_request(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/middleware/locale.py", line 20, in process_request
+    i18n_patterns_used, prefixed_default_language = is_language_prefix_patterns_used(urlconf)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/conf/urls/i18n.py", line 31, in is_language_prefix_patterns_used
+    for url_pattern in get_resolver(urlconf).url_patterns:
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/resolvers.py", line 533, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/resolvers.py", line 526, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/bruce/code/tocadminwebsite/apps/jumpserver/urls.py", line 68, in <module>
+    path('events/v1/', include('event.urls.api_urls', namespace='api-events')),
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/bruce/code/tocadminwebsite/apps/event/urls/api_urls.py", line 4, in <module>
+    from .. import api
+  File "/Users/bruce/code/tocadminwebsite/apps/event/api.py", line 9, in <module>
+    from models import Event
+ModuleNotFoundError: No module named 'models'
+2018-12-12 22:27:02 [log ERROR] Internal Server Error: /api/V1/events/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/deprecation.py", line 90, in __call__
+    response = self.process_request(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/middleware/locale.py", line 20, in process_request
+    i18n_patterns_used, prefixed_default_language = is_language_prefix_patterns_used(urlconf)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/conf/urls/i18n.py", line 31, in is_language_prefix_patterns_used
+    for url_pattern in get_resolver(urlconf).url_patterns:
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/resolvers.py", line 533, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/resolvers.py", line 526, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/bruce/code/tocadminwebsite/apps/jumpserver/urls.py", line 68, in <module>
+    path('events/v1/', include('event.urls.api_urls', namespace='api-events')),
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/bruce/code/tocadminwebsite/apps/event/urls/api_urls.py", line 4, in <module>
+    from .. import api
+  File "/Users/bruce/code/tocadminwebsite/apps/event/api.py", line 9, in <module>
+    from models import Event
+ModuleNotFoundError: No module named 'models'
+2018-12-12 22:27:51 [log WARNING] Not Found: /api/V1/events/
+2018-12-12 22:28:04 [log WARNING] Not Found: /api/V1/
+2018-12-12 22:28:18 [log WARNING] Not Found: /api/V1/events/v1/
+2018-12-12 22:28:38 [log WARNING] Not Found: /static/rest_framework/js/jquery-1.12.4.min.js
+2018-12-12 22:48:40 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:48:40 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:48:40 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:48:40 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:48:41 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:48:41 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 22:48:41 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 22:48:41 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:09:04 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: events/event_create.html
+2018-12-12 23:09:30 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:09:30 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:09:30 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:09:30 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:09:31 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:09:31 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:09:32 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:09:32 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:09:32 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-12-12 23:12:33 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-12-12 23:12:35 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:12:35 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:14:14 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:14:14 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:14:15 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/deprecation.py", line 90, in __call__
+    response = self.process_request(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/middleware/locale.py", line 20, in process_request
+    i18n_patterns_used, prefixed_default_language = is_language_prefix_patterns_used(urlconf)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/conf/urls/i18n.py", line 31, in is_language_prefix_patterns_used
+    for url_pattern in get_resolver(urlconf).url_patterns:
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/resolvers.py", line 533, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 37, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/resolvers.py", line 526, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/bruce/code/tocadminwebsite/apps/jumpserver/urls.py", line 74, in <module>
+    path('events/', include('event.urls.views_urls', namespace='events')),
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/Users/bruce/code/tocadminwebsite/apps/event/urls/views_urls.py", line 6, in <module>
+    from .. import views
+  File "/Users/bruce/code/tocadminwebsite/apps/event/views.py", line 16, in <module>
+    from . import forms
+  File "/Users/bruce/code/tocadminwebsite/apps/event/forms.py", line 16, in <module>
+    class EventCreateUpdateForm(forms):
+TypeError: module.__init__() takes at most 2 arguments (3 given)
+2018-12-12 23:16:56 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-12-12 23:19:53 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:19:53 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:23:14 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-12-12 23:23:23 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-12-12 23:25:25 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-12-12 23:25:30 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 156, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 154, in _get_response
+    response = response.render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/response.py", line 83, in rendered_content
+    content = template.render(context, self._request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/template/library.py", line 192, in render
+    output = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/templatetags/bootstrap3.py", line 516, in bootstrap_field
+    return render_field(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/forms.py", line 69, in render_field
+    return renderer_cls(field, **kwargs).render()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/bootstrap3/renderers.py", line 248, in __init__
+    raise BootstrapError('Parameter "field" should contain a valid Django BoundField.')
+bootstrap3.exceptions.BootstrapError: Parameter "field" should contain a valid Django BoundField.
+2018-12-12 23:29:24 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:29:24 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:29:24 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:29:24 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:29:24 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:29:24 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:29:25 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:29:25 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:32:59 [log ERROR] Internal Server Error: /events/event/create/
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 52, in inner
+    return func(*args, **kwds)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/bruce/code/tocadminwebsite/apps/common/permissions.py", line 92, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/contrib/auth/mixins.py", line 109, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/views/generic/edit.py", line 172, in post
+    return super().post(request, *args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/views/generic/edit.py", line 142, in post
+    return self.form_valid(form)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/contrib/messages/views.py", line 12, in form_valid
+    success_message = self.get_success_message(form.cleaned_data)
+  File "/Users/bruce/code/tocadminwebsite/apps/event/views.py", line 53, in get_success_message
+    return create_success_msg % ({"title": cleaned_data["title"]})
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/utils/functional.py", line 149, in __mod__
+    return str(self) % rhs
+KeyError: 'name'
+2018-12-12 23:34:06 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:34:06 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:34:35 [log WARNING] Not Found: /users/user/7bcb68cc-7aaf-443b-a1c1-0cdf0597e73b/
+2018-12-12 23:39:02 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 23:39:02 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 23:41:14 [log WARNING] Not Found: /users/user/7bcb68cc-7aaf-443b-a1c1-0cdf0597e73b/

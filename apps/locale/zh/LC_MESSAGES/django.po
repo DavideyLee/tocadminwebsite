@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jumpserver 0.3.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-11 09:58+0800\n"
+"POT-Creation-Date: 2018-12-12 16:00+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: ibuler <ibuler@qq.com>\n"
 "Language-Team: Jumpserver team<ibuler@qq.com>\n"
@@ -159,7 +159,8 @@ msgstr "不能包含特殊字符"
 #: apps/common/templates/common/replay_storage_create.html:44
 #: apps/common/templates/common/terminal_setting.html:80
 #: apps/common/templates/common/terminal_setting.html:102
-#: apps/ops/models/adhoc.py:37 apps/ops/templates/ops/task_detail.html:59
+#: apps/event/templates/event/event_detail.html:55 apps/ops/models/adhoc.py:37
+#: apps/ops/templates/ops/task_detail.html:59
 #: apps/ops/templates/ops/task_list.html:35 apps/orgs/models.py:12
 #: apps/perms/models.py:28
 #: apps/perms/templates/perms/asset_permission_detail.html:62
@@ -411,6 +412,7 @@ msgstr "创建者"
 #: apps/assets/templates/assets/cmd_filter_detail.html:69
 #: apps/assets/templates/assets/domain_detail.html:68
 #: apps/assets/templates/assets/system_user_detail.html:96
+#: apps/event/templates/event/event_detail.html:63
 #: apps/ops/templates/ops/adhoc_detail.html:90
 #: apps/ops/templates/ops/task_detail.html:63 apps/orgs/models.py:16
 #: apps/perms/models.py:38 apps/perms/models.py:85
@@ -438,8 +440,9 @@ msgstr "创建日期"
 #: apps/assets/templates/assets/system_user_detail.html:104
 #: apps/assets/templates/assets/system_user_list.html:37
 #: apps/assets/templates/assets/user_asset_list.html:170
-#: apps/common/models.py:35 apps/ops/models/adhoc.py:43 apps/orgs/models.py:17
-#: apps/perms/models.py:39 apps/perms/models.py:86
+#: apps/common/models.py:35 apps/event/models.py:70
+#: apps/event/templates/event/event_detail.html:67 apps/ops/models/adhoc.py:43
+#: apps/orgs/models.py:17 apps/perms/models.py:39 apps/perms/models.py:86
 #: apps/perms/templates/perms/asset_permission_detail.html:102
 #: apps/terminal/models.py:28
 #: apps/terminal/templates/terminal/terminal_detail.html:63
@@ -584,6 +587,7 @@ msgstr "每行一个命令"
 #: apps/audits/templates/audits/operate_log_list.html:67
 #: apps/common/templates/common/terminal_setting.html:82
 #: apps/common/templates/common/terminal_setting.html:104
+#: apps/event/templates/event/event_list.html:29
 #: apps/ops/templates/ops/adhoc_history.html:59
 #: apps/ops/templates/ops/task_adhoc.html:64
 #: apps/ops/templates/ops/task_history.html:65
@@ -620,7 +624,8 @@ msgstr "默认资产组"
 #: apps/audits/templates/audits/operate_log_list.html:66
 #: apps/audits/templates/audits/password_change_log_list.html:33
 #: apps/audits/templates/audits/password_change_log_list.html:50
-#: apps/perms/forms.py:28 apps/perms/models.py:29
+#: apps/event/templates/event/event_detail.html:78 apps/perms/forms.py:28
+#: apps/perms/models.py:29
 #: apps/perms/templates/perms/asset_permission_create_update.html:36
 #: apps/perms/templates/perms/asset_permission_list.html:54
 #: apps/perms/templates/perms/asset_permission_list.html:142
@@ -903,6 +908,7 @@ msgstr "重置"
 #: apps/common/templates/common/replay_storage_create.html:140
 #: apps/common/templates/common/security_setting.html:71
 #: apps/common/templates/common/terminal_setting.html:70
+#: apps/event/templates/event/event_list.html:45
 #: apps/perms/templates/perms/asset_permission_create_update.html:70
 #: apps/terminal/templates/terminal/command_list.html:103
 #: apps/terminal/templates/terminal/session_list.html:127
@@ -997,7 +1003,8 @@ msgstr "测试"
 #: apps/assets/templates/assets/label_list.html:38
 #: apps/assets/templates/assets/system_user_detail.html:26
 #: apps/assets/templates/assets/system_user_list.html:92
-#: apps/audits/models.py:32
+#: apps/audits/models.py:32 apps/event/templates/event/event_detail.html:28
+#: apps/event/templates/event/event_list.html:77
 #: apps/perms/templates/perms/asset_permission_detail.html:30
 #: apps/perms/templates/perms/asset_permission_list.html:200
 #: apps/terminal/templates/terminal/terminal_detail.html:16
@@ -1029,6 +1036,9 @@ msgstr "更新"
 #: apps/audits/models.py:33
 #: apps/common/templates/common/terminal_setting.html:90
 #: apps/common/templates/common/terminal_setting.html:112
+#: apps/event/templates/event/event_detail.html:32
+#: apps/event/templates/event/event_list.html:81
+#: apps/event/templates/event/event_list.html:85
 #: apps/ops/templates/ops/task_list.html:72
 #: apps/perms/templates/perms/asset_permission_detail.html:34
 #: apps/perms/templates/perms/asset_permission_list.html:201
@@ -1058,7 +1068,8 @@ msgstr "选择节点"
 #: apps/assets/templates/assets/system_user_detail.html:182
 #: apps/assets/templates/assets/system_user_list.html:143
 #: apps/common/templates/common/terminal_setting.html:165
-#: apps/templates/_modal.html:22
+#: apps/event/templates/event/event_create_update.html:32
+#: apps/event/templates/event/event_list.html:205 apps/templates/_modal.html:22
 #: apps/terminal/templates/terminal/session_detail.html:108
 #: apps/users/templates/users/user_detail.html:382
 #: apps/users/templates/users/user_detail.html:408
@@ -1182,11 +1193,13 @@ msgid "Create asset"
 msgstr "创建资产"
 
 #: apps/assets/templates/assets/asset_list.html:73
+#: apps/event/templates/event/event_list.html:7
 #: apps/users/templates/users/user_list.html:7
 msgid "Import"
 msgstr "导入"
 
 #: apps/assets/templates/assets/asset_list.html:76
+#: apps/event/templates/event/event_list.html:10
 #: apps/users/templates/users/user_list.html:10
 msgid "Export"
 msgstr "导出"
@@ -1196,11 +1209,13 @@ msgid "Hardware"
 msgstr "硬件"
 
 #: apps/assets/templates/assets/asset_list.html:106
+#: apps/event/templates/event/event_list.html:38
 #: apps/users/templates/users/user_list.html:38
 msgid "Delete selected"
 msgstr "批量删除"
 
 #: apps/assets/templates/assets/asset_list.html:107
+#: apps/event/templates/event/event_list.html:39
 #: apps/users/templates/users/user_list.html:39
 msgid "Update selected"
 msgstr "批量更新"
@@ -1210,11 +1225,13 @@ msgid "Remove from this node"
 msgstr "从节点移除"
 
 #: apps/assets/templates/assets/asset_list.html:109
+#: apps/event/templates/event/event_list.html:40
 #: apps/users/templates/users/user_list.html:40
 msgid "Deactive selected"
 msgstr "禁用所选"
 
 #: apps/assets/templates/assets/asset_list.html:110
+#: apps/event/templates/event/event_list.html:41
 #: apps/users/templates/users/user_list.html:41
 msgid "Active selected"
 msgstr "激活所选"
@@ -1277,6 +1294,7 @@ msgstr "重命名失败，不能更改root节点的名称"
 
 #: apps/assets/templates/assets/asset_list.html:627
 #: apps/assets/templates/assets/system_user_list.html:137
+#: apps/event/templates/event/event_list.html:199
 #: apps/users/templates/users/user_detail.html:376
 #: apps/users/templates/users/user_detail.html:402
 #: apps/users/templates/users/user_detail.html:470
@@ -1292,6 +1310,8 @@ msgstr "删除选择资产"
 #: apps/assets/templates/assets/asset_list.html:631
 #: apps/assets/templates/assets/system_user_list.html:141
 #: apps/common/templates/common/terminal_setting.html:163
+#: apps/event/templates/event/event_create_update.html:31
+#: apps/event/templates/event/event_list.html:203
 #: apps/users/templates/users/user_detail.html:380
 #: apps/users/templates/users/user_detail.html:406
 #: apps/users/templates/users/user_detail.html:474
@@ -2151,6 +2171,7 @@ msgstr "命令存储"
 
 #: apps/common/templates/common/terminal_setting.html:95
 #: apps/common/templates/common/terminal_setting.html:117
+#: apps/event/templates/event/event_detail.html:95
 #: apps/perms/templates/perms/asset_permission_asset.html:97
 #: apps/perms/templates/perms/asset_permission_detail.html:157
 #: apps/perms/templates/perms/asset_permission_user.html:97
@@ -2194,6 +2215,186 @@ msgstr "创建录像存储"
 #: apps/common/views.py:144
 msgid "Create command storage"
 msgstr "创建命令存储"
+
+#: apps/event/forms.py:19 apps/event/views.py:28
+msgid "Event list"
+msgstr "事件列表"
+
+#: apps/event/forms.py:23 apps/users/forms.py:265 apps/users/forms.py:270
+#: apps/users/forms.py:316
+msgid "Select users"
+msgstr "选择用户"
+
+#: apps/event/models.py:22
+msgid "1 LEVEL"
+msgstr ""
+
+#: apps/event/models.py:23
+msgid "2 LEVEL"
+msgstr ""
+
+#: apps/event/models.py:24
+msgid "3 LEVEL"
+msgstr ""
+
+#: apps/event/models.py:25
+msgid "4 LEVEL"
+msgstr ""
+
+#: apps/event/models.py:26
+msgid "5 LEVEL"
+msgstr ""
+
+#: apps/event/models.py:27
+msgid "6 LEVEL"
+msgstr ""
+
+#: apps/event/models.py:28
+msgid "7 LEVEL"
+msgstr ""
+
+#: apps/event/models.py:29
+msgid "8 LEVEL"
+msgstr ""
+
+#: apps/event/models.py:40
+msgid "STATE 1"
+msgstr ""
+
+#: apps/event/models.py:41
+msgid "STATE 2"
+msgstr ""
+
+#: apps/event/models.py:42
+msgid "STATE 3"
+msgstr ""
+
+#: apps/event/models.py:43
+msgid "STATE 4"
+msgstr ""
+
+#: apps/event/models.py:44
+msgid "STATE 5"
+msgstr ""
+
+#: apps/event/models.py:49 apps/event/templates/event/event_list.html:23
+msgid "Title"
+msgstr "标题"
+
+#: apps/event/models.py:50 apps/event/templates/event/event_list.html:24
+msgid "Create time"
+msgstr "创建日期"
+
+#: apps/event/models.py:51
+msgid "Modified time"
+msgstr "最后修改日期"
+
+#: apps/event/models.py:52
+msgid "Finish time"
+msgstr "关闭时间"
+
+#: apps/event/models.py:53
+#, fuzzy
+#| msgid "Start time"
+msgid "Event starttime"
+msgstr "故障开始时间"
+
+#: apps/event/models.py:54
+msgid "Event endtime"
+msgstr "故障恢复时间"
+
+#: apps/event/models.py:55 apps/event/templates/event/event_list.html:26
+msgid "System name"
+msgstr "系统名称"
+
+#: apps/event/models.py:58 apps/event/templates/event/event_list.html:25
+msgid "Event level"
+msgstr "事件等级"
+
+#: apps/event/models.py:61 apps/event/templates/event/event_list.html:28
+msgid "Event ops"
+msgstr "应用负责人"
+
+#: apps/event/models.py:64 apps/event/templates/event/event_list.html:27
+msgid "Event dev"
+msgstr "研发负责人"
+
+#: apps/event/models.py:67
+msgid "Event bus"
+msgstr "业务负责人"
+
+#: apps/event/models.py:73
+#, fuzzy
+#| msgid "Event bus"
+msgid "Event cause"
+msgstr "业务负责人"
+
+#: apps/event/models.py:77
+msgid "Event state"
+msgstr "事件状态"
+
+#: apps/event/models.py:80
+msgid "Solve event comment"
+msgstr "解决方案"
+
+#: apps/event/models.py:83
+msgid "Avoid event comment"
+msgstr "规避方案"
+
+#: apps/event/models.py:91 apps/event/views.py:27
+msgid "Event"
+msgstr "事件管理"
+
+#: apps/event/templates/event/event_detail.html:22
+#: apps/users/templates/users/user_group_detail.html:22
+#: apps/users/templates/users/user_group_granted_asset.html:18
+#: apps/users/views/group.py:77
+msgid "User group detail"
+msgstr "用户组详情"
+
+#: apps/event/templates/event/event_detail.html:25
+#: apps/users/templates/users/user_detail.html:22
+#: apps/users/templates/users/user_granted_asset.html:21
+#: apps/users/templates/users/user_group_detail.html:25
+#: apps/users/templates/users/user_group_granted_asset.html:21
+msgid "Asset granted"
+msgstr "授权的资产"
+
+#: apps/event/templates/event/event_detail.html:59 apps/ops/models/adhoc.py:163
+#: apps/users/templates/users/user_group_detail.html:59
+msgid "Create by"
+msgstr "创建者"
+
+#: apps/event/templates/event/event_detail.html:86
+#: apps/users/templates/users/user_group_detail.html:86
+msgid "Add user"
+msgstr "添加用户"
+
+#: apps/event/templates/event/event_list.html:16
+msgid "Create event"
+msgstr "创建事件"
+
+#: apps/event/templates/event/event_list.html:200
+#: apps/users/templates/users/user_list.html:200
+msgid "This will delete the selected users !!!"
+msgstr "删除选中用户 !!!"
+
+#: apps/event/templates/event/event_list.html:209
+#: apps/users/templates/users/user_list.html:209
+msgid "User Deleted."
+msgstr "已被删除"
+
+#: apps/event/templates/event/event_list.html:210
+#: apps/event/templates/event/event_list.html:215
+#: apps/users/templates/users/user_list.html:210
+#: apps/users/templates/users/user_list.html:215
+msgid "User Delete"
+msgstr "删除"
+
+#: apps/event/templates/event/event_list.html:214
+#: apps/users/templates/users/user_list.html:214
+msgid "User Deleting failed."
+msgstr "用户删除失败"
 
 #: apps/jumpserver/views.py:180
 msgid ""
@@ -2252,11 +2453,6 @@ msgstr "用户"
 #: apps/ops/templates/ops/task_adhoc.html:62
 msgid "Become"
 msgstr "Become"
-
-#: apps/ops/models/adhoc.py:163
-#: apps/users/templates/users/user_group_detail.html:59
-msgid "Create by"
-msgstr "创建者"
 
 #: apps/ops/models/adhoc.py:327
 msgid "Start time"
@@ -3280,10 +3476,6 @@ msgstr "复制你的公钥到这里"
 msgid "Public key"
 msgstr "ssh公钥"
 
-#: apps/users/forms.py:265 apps/users/forms.py:270 apps/users/forms.py:316
-msgid "Select users"
-msgstr "选择用户"
-
 #: apps/users/models/authentication.py:36
 msgid "Private Token"
 msgstr "ssh密钥"
@@ -3692,13 +3884,6 @@ msgstr "生成重置密码连接，通过邮件发送给用户"
 msgid "User detail"
 msgstr "用户详情"
 
-#: apps/users/templates/users/user_detail.html:22
-#: apps/users/templates/users/user_granted_asset.html:21
-#: apps/users/templates/users/user_group_detail.html:25
-#: apps/users/templates/users/user_group_granted_asset.html:21
-msgid "Asset granted"
-msgstr "授权的资产"
-
 #: apps/users/templates/users/user_detail.html:94
 msgid "Force enabled"
 msgstr "强制启用"
@@ -3784,16 +3969,6 @@ msgstr "解除用户登录限制后，此用户即可正常登录"
 msgid "Reset user MFA success"
 msgstr "重置用户MFA成功"
 
-#: apps/users/templates/users/user_group_detail.html:22
-#: apps/users/templates/users/user_group_granted_asset.html:18
-#: apps/users/views/group.py:77
-msgid "User group detail"
-msgstr "用户组详情"
-
-#: apps/users/templates/users/user_group_detail.html:86
-msgid "Add user"
-msgstr "添加用户"
-
 #: apps/users/templates/users/user_group_list.html:5
 #: apps/users/views/group.py:45
 msgid "Create user group"
@@ -3815,23 +3990,6 @@ msgstr "用户组删除"
 #: apps/users/templates/users/user_group_list.html:97
 msgid "UserGroup Deleting failed."
 msgstr "用户组删除失败"
-
-#: apps/users/templates/users/user_list.html:200
-msgid "This will delete the selected users !!!"
-msgstr "删除选中用户 !!!"
-
-#: apps/users/templates/users/user_list.html:209
-msgid "User Deleted."
-msgstr "已被删除"
-
-#: apps/users/templates/users/user_list.html:210
-#: apps/users/templates/users/user_list.html:215
-msgid "User Delete"
-msgstr "删除"
-
-#: apps/users/templates/users/user_list.html:214
-msgid "User Deleting failed."
-msgstr "用户删除失败"
 
 #: apps/users/templates/users/user_otp_authentication.html:6
 #: apps/users/templates/users/user_password_authentication.html:6
@@ -4185,6 +4343,33 @@ msgstr "MFA 解绑成功"
 #: apps/users/views/user.py:585
 msgid "MFA disable success, return login page"
 msgstr "MFA 解绑成功，返回登录页面"
+
+#, fuzzy
+#~| msgid "Comment"
+#~ msgid "Comment cause"
+#~ msgstr "事件"
+
+#, fuzzy
+#~| msgid "This will delete the selected assets !!!"
+#~ msgid "This will delete the selected events !!!"
+#~ msgstr "删除选择事件"
+
+#, fuzzy
+#~| msgid "Asset Deleted."
+#~ msgid "Event Deleted."
+#~ msgstr "已被删除"
+
+#~ msgid "Event Delete"
+#~ msgstr "事件删除"
+
+#~ msgid "Event Deleting failed."
+#~ msgstr "事件删除失败"
+
+#~ msgid "Update event"
+#~ msgstr "更新事件"
+
+#~ msgid "Event detail"
+#~ msgstr "事件详情"
 
 #~ msgid "Help"
 #~ msgstr "帮助"
