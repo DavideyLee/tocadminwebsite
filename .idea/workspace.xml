@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5811e63e-625d-4601-97ed-ea0d1768ed6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/event/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/event/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/beat.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/beat.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/celery.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/celery.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/gunicorn.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gunicorn.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/jumpserver.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/jumpserver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/beat.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/beat.pid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/celery.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/celery.pid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/gunicorn.pid" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/gunicorn.pid" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/event/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+            <state relative-caret-position="185">
+              <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -229,7 +222,7 @@
       <updated>1544487282008</updated>
       <workItem from="1544487283893" duration="7783000" />
       <workItem from="1544498657724" duration="8806000" />
-      <workItem from="1544574355499" duration="2300000" />
+      <workItem from="1544574355499" duration="2819000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1544487374435</created>
@@ -263,7 +256,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18889000" />
+    <option name="totallyTimeSpent" value="19408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="29" width="1260" height="715" extended-state="0" />
@@ -551,8 +544,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/event/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        <state relative-caret-position="185">
+          <caret line="74" column="53" selection-start-line="74" selection-start-column="53" selection-end-line="74" selection-end-column="53" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
