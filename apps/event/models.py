@@ -2,6 +2,7 @@ from django.db import models
 import uuid
 from django.utils.translation import ugettext_lazy as _
 from orgs.mixins import OrgModelMixin
+from django.utils import timezone
 
 # Create your models here.
 
@@ -48,7 +49,7 @@ class Event(OrgModelMixin):
     title = models.CharField(max_length=70, verbose_name=_('Title'))   # 事件标题
     created_time = models.DateTimeField(auto_now_add=True, null=True, verbose_name=_('Create time'))  # 事件记录创建时间
     modified_time = models.DateTimeField(auto_now=True, verbose_name=_('Modified time'))  # 事件记录最后修改时间
-    finish_time = models.DateTimeField(verbose_name=_('Finish time'))  # 事件关闭时间
+    finish_time = models.DateTimeField(auto_now=True, verbose_name=_('Finish time'))  # 事件关闭时间
     event_starttime = models.DateTimeField(verbose_name=_('Event starttime'))  # 事件故障开始时间
     event_endtime = models.DateTimeField(verbose_name=_('Event endtime'))  # 事件故障结束时间
     system_name = models.CharField(max_length=128, verbose_name=_('System name'))  # 事件影响的系统
