@@ -69,7 +69,7 @@ class Event(OrgModelMixin):
         max_length=1000, blank=True, verbose_name=_('Comment')  # 事件描述
     )
     event_cause = models.TextField(
-        max_length=500, blank=True, verbose_name=_('Comment')  # 事件根因分析
+        max_length=500, blank=True, verbose_name=_('Comment cause')  # 事件根因分析
     )
     event_state = models.CharField(
         choices=EVENT_STATE_CHOICES, default='STATE_1', max_length=10,  # 事件状态
