@@ -1241,3 +1241,816 @@ beat: Synchronizing schedule...
 Writing entries...
 beat: Waking up in 1.00 minute.
 beat: Waking up in 59.29 seconds.
+Scheduler: Sending due task assets.tasks.update_assets_hardware_info_period (assets.tasks.update_assets_hardware_info_period)
+assets.tasks.update_assets_hardware_info_period sent. id->5058c6f1-70a9-41c4-859a-c2b4f1f524a2
+Scheduler: Sending due task assets.tasks.test_admin_user_connectability_period (assets.tasks.test_admin_user_connectability_period)
+assets.tasks.test_admin_user_connectability_period sent. id->c1b8589c-96be-4dbc-bf25-fffcfcf108d1
+Scheduler: Sending due task assets.tasks.test_system_user_connectability_period (assets.tasks.test_system_user_connectability_period)
+assets.tasks.test_system_user_connectability_period sent. id->741731ec-e81f-4c83-9e17-b8b1e9729334
+Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+terminal.tasks.delete_terminal_status_period sent. id->210c40c7-cbcb-40d2-a04a-12b8160ff99c
+Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+terminal.tasks.clean_orphan_session sent. id->98b02bc8-8599-4fa2-bef1-161fd7e02682
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 59.14 seconds.
+Scheduler: Sending due task assets.tasks.update_assets_hardware_info_period (assets.tasks.update_assets_hardware_info_period)
+assets.tasks.update_assets_hardware_info_period sent. id->b316bb23-fea4-4720-bdef-d556bd51553b
+beat: Waking up now.
+Scheduler: Sending due task assets.tasks.test_admin_user_connectability_period (assets.tasks.test_admin_user_connectability_period)
+assets.tasks.test_admin_user_connectability_period sent. id->3a2cd3c0-0d7b-4492-8e28-f7756f2971eb
+beat: Waking up now.
+Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+terminal.tasks.delete_terminal_status_period sent. id->13e8c679-c30c-4ae9-8c3a-cc9d9392aa5e
+Scheduler: Sending due task assets.tasks.test_system_user_connectability_period (assets.tasks.test_system_user_connectability_period)
+assets.tasks.test_system_user_connectability_period sent. id->3ea05b90-3d0e-4456-926e-51ba4a1b9fcf
+Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+terminal.tasks.clean_orphan_session sent. id->b80a66f8-cbc6-4e84-900c-8d891ba7bc67
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 59.03 seconds.
+Scheduler: Sending due task assets.tasks.update_assets_hardware_info_period (assets.tasks.update_assets_hardware_info_period)
+assets.tasks.update_assets_hardware_info_period sent. id->c3ffdc66-e867-47e3-8751-a0e76883846f
+beat: Waking up now.
+Scheduler: Sending due task assets.tasks.test_admin_user_connectability_period (assets.tasks.test_admin_user_connectability_period)
+assets.tasks.test_admin_user_connectability_period sent. id->5b2d0cc5-521a-4ad9-856d-dd89604f1e85
+beat: Waking up now.
+Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+terminal.tasks.delete_terminal_status_period sent. id->565eea1c-a66e-41db-951d-a52452202fda
+Scheduler: Sending due task assets.tasks.test_system_user_connectability_period (assets.tasks.test_system_user_connectability_period)
+assets.tasks.test_system_user_connectability_period sent. id->dd18faef-4abb-4ae7-90a0-64b2caf5bd50
+Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+terminal.tasks.clean_orphan_session sent. id->6a737032-9cad-4023-9ce3-59491158f2a8
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 59.15 seconds.
+Scheduler: Sending due task assets.tasks.update_assets_hardware_info_period (assets.tasks.update_assets_hardware_info_period)
+assets.tasks.update_assets_hardware_info_period sent. id->01d1ee06-5f72-4a3b-b8e1-da88017bbd34
+beat: Waking up now.
+Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+terminal.tasks.delete_terminal_status_period sent. id->6ce670de-27a9-49d0-a27a-2481e5a9a9d6
+Scheduler: Sending due task assets.tasks.test_system_user_connectability_period (assets.tasks.test_system_user_connectability_period)
+assets.tasks.test_system_user_connectability_period sent. id->3d72f495-5d49-4b76-a4ea-cb4bbd189376
+Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+terminal.tasks.clean_orphan_session sent. id->4cc50263-9880-40e8-9d14-8d72ecd3763a
+Scheduler: Sending due task assets.tasks.test_admin_user_connectability_period (assets.tasks.test_admin_user_connectability_period)
+assets.tasks.test_admin_user_connectability_period sent. id->b128c8fc-459f-4a32-a7cb-ccfff326b8ed
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+Writing entries...
+Database error while sync: OperationalError(2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 194, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django_celery_beat/schedulers.py", line 238, in sync
+    with transaction.atomic():
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/transaction.py", line 147, in __enter__
+    if not connection.get_autocommit():
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 378, in get_autocommit
+    self.ensure_connection()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 194, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+Writing entries...
+Database error while sync: OperationalError(2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 194, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django_celery_beat/schedulers.py", line 238, in sync
+    with transaction.atomic():
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/transaction.py", line 147, in __enter__
+    if not connection.get_autocommit():
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 378, in get_autocommit
+    self.ensure_connection()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 194, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+Writing entries...
+Database error while sync: OperationalError(2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 194, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django_celery_beat/schedulers.py", line 238, in sync
+    with transaction.atomic():
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/transaction.py", line 147, in __enter__
+    if not connection.get_autocommit():
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 378, in get_autocommit
+    self.ensure_connection()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 194, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+Writing entries...
+Database error while sync: OperationalError(2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 194, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django_celery_beat/schedulers.py", line 238, in sync
+    with transaction.atomic():
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/transaction.py", line 147, in __enter__
+    if not connection.get_autocommit():
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 378, in get_autocommit
+    self.ensure_connection()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 216, in ensure_connection
+    self.connect()
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/base/base.py", line 194, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 227, in get_new_connection
+    return Database.connect(**conn_params)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/Users/bruce/Python_virtualenvs/django_tocwebsite_env/lib/python3.6/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '127.0.0.1' (61)")
+Setting default socket timeout to 30
+beat: Starting...
+DatabaseScheduler: initial read
+Writing entries...
+DatabaseScheduler: Fetching database schedule
+Current schedule:
+<ModelEntry: celery.backend_cleanup celery.backend_cleanup(*[], **{}) <crontab: 0 4 * * * (m/h/d/dM/MY)>>
+<ModelEntry: assets.tasks.update_assets_hardware_info_period assets.tasks.update_assets_hardware_info_period(*[], **{}) <freq: 1.00 hour>>
+<ModelEntry: assets.tasks.test_admin_user_connectability_period assets.tasks.test_admin_user_connectability_period(*[], **{}) <freq: 1.00 hour>>
+<ModelEntry: assets.tasks.test_system_user_connectability_period assets.tasks.test_system_user_connectability_period(*[], **{}) <freq: 1.00 hour>>
+<ModelEntry: terminal.tasks.delete_terminal_status_period terminal.tasks.delete_terminal_status_period(*[], **{}) <freq: 1.00 hour>>
+<ModelEntry: terminal.tasks.clean_orphan_session terminal.tasks.clean_orphan_session(*[], **{}) <freq: 1.00 hour>>
+beat: Ticking with max interval->1.00 minute
+Scheduler: Sending due task assets.tasks.test_admin_user_connectability_period (assets.tasks.test_admin_user_connectability_period)
+beat: Synchronizing schedule...
+Writing entries...
+assets.tasks.test_admin_user_connectability_period sent. id->3e20390d-e29f-41ed-8502-9d637cfaf160
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 59.29 seconds.
+Scheduler: Sending due task assets.tasks.test_admin_user_connectability_period (assets.tasks.test_admin_user_connectability_period)
+assets.tasks.test_admin_user_connectability_period sent. id->97b4a336-48c0-4047-a984-f5ea8877986f
+Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+terminal.tasks.delete_terminal_status_period sent. id->8927220d-e6d7-4871-b028-48e64076d45a
+Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+terminal.tasks.clean_orphan_session sent. id->4958b16f-7e7f-4c21-acb6-def864007261
+Scheduler: Sending due task assets.tasks.update_assets_hardware_info_period (assets.tasks.update_assets_hardware_info_period)
+assets.tasks.update_assets_hardware_info_period sent. id->83628df7-42db-4e8d-bd80-7e851fec6477
+Scheduler: Sending due task assets.tasks.test_system_user_connectability_period (assets.tasks.test_system_user_connectability_period)
+assets.tasks.test_system_user_connectability_period sent. id->206ff0a0-c8e8-40a3-baf4-fd86b54c7f6c
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 59.35 seconds.
+Scheduler: Sending due task terminal.tasks.delete_terminal_status_period (terminal.tasks.delete_terminal_status_period)
+terminal.tasks.delete_terminal_status_period sent. id->8e4018a6-9586-4cf1-976d-0abdf143737c
+Scheduler: Sending due task terminal.tasks.clean_orphan_session (terminal.tasks.clean_orphan_session)
+terminal.tasks.clean_orphan_session sent. id->8d9b6edd-1d20-4ffb-af03-5e3765e396f5
+Scheduler: Sending due task assets.tasks.test_admin_user_connectability_period (assets.tasks.test_admin_user_connectability_period)
+assets.tasks.test_admin_user_connectability_period sent. id->5a7572e4-b523-455e-8ab2-5fd7beaca4ff
+Scheduler: Sending due task assets.tasks.update_assets_hardware_info_period (assets.tasks.update_assets_hardware_info_period)
+assets.tasks.update_assets_hardware_info_period sent. id->36fd6141-9cbe-48d1-923d-1c5cd20fc10f
+Scheduler: Sending due task assets.tasks.test_system_user_connectability_period (assets.tasks.test_system_user_connectability_period)
+assets.tasks.test_system_user_connectability_period sent. id->888e2c54-621a-4684-ac48-7926008ccbab
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Synchronizing schedule...
+Writing entries...
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.
+beat: Waking up in 1.00 minute.

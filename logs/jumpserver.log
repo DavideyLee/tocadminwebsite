@@ -396,3 +396,70 @@
 2018-12-11 17:34:13 [tasks DEBUG] Period task disabled, update assets hardware info pass
 2018-12-11 17:34:13 [tasks DEBUG] Period task disabled, test system user connectability pass
 2018-12-11 17:34:27 [backend WARNING] uid=guoyuanwei,ou=people,dc=redevops,dc=com does not have a value for the attribute mail
+2018-12-11 18:34:09 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-11 18:34:09 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-11 18:34:09 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-11 19:34:09 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-11 19:34:09 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-11 19:34:09 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-11 20:34:09 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-11 20:34:09 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-11 20:34:09 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-11 21:34:09 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-11 21:34:09 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-11 21:34:09 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 08:42:52 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:42:52 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:42:57 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:42:57 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:03 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:03 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:07 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:07 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:11 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:11 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:16 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:16 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:20 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:20 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:25 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:25 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:30 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:30 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:34 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:34 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:38 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:38 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:42 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:42 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:48 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:48 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:53 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:53 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:43:58 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:43:58 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:44:04 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:44:04 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:44:04 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:44:04 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:44:04 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:44:04 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:44:04 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:44:04 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:44:04 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:44:04 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:44:05 [signals_handler DEBUG] Receive django ready signal
+2018-12-12 08:44:05 [signals_handler DEBUG]   - fresh all settings
+2018-12-12 08:44:08 [signal_handler DEBUG] App ready signal recv
+2018-12-12 08:44:08 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session]
+2018-12-12 08:44:08 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 08:44:08 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 08:44:08 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 08:44:08 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 09:44:06 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 09:44:06 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 09:44:06 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-12 10:31:26 [log WARNING] Not Found: /favicon.ico
+2018-12-12 10:44:06 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-12 10:44:06 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-12 10:44:06 [tasks DEBUG] Period task disabled, test system user connectability pass
