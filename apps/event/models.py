@@ -39,7 +39,7 @@ class Event(models.Model):
     event_endtime = models.DateTimeField(verbose_name=_('Event endtime'))  # 事件故障结束时间
     system_name = models.CharField(max_length=128, verbose_name=_('System name'))  # 事件影响的系统
     event_level = models.SmallIntegerField(  # 事件等级
-        choices=EVENT_LEVEL_CHOICES, default='LEVEL_8', max_length=10,
+        choices=EVENT_LEVEL_CHOICES, default='LEVEL_8',
         blank=True, verbose_name=_('Event level')
     )
     event_leader = models.ForeignKey(User, verbose_name=_('Event leader'), on_delete=models.PROTECT)
@@ -71,7 +71,7 @@ class Event(models.Model):
         max_length=1024, blank=True, verbose_name=_('Event cause')  # 事件根因分析
     )
     event_state = models.SmallIntegerField(
-        choices=EVENT_STATE_CHOICES, default='STATE_1', max_length=10,  # 事件状态
+        choices=EVENT_STATE_CHOICES, default='STATE_1',  # 事件状态
         blank=True, verbose_name=_('Event state')
     )
     solve_event_comment = models.TextField(

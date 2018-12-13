@@ -2,7 +2,7 @@
 #
 
 
-def jumpserver_processor(request):
+def tocadmin_processor(request):
     context = {}
 
     # Setting default pk
