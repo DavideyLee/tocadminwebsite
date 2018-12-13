@@ -14,6 +14,7 @@ from common.permissions import AdminUserRequiredMixin
 from orgs.utils import current_org
 from .models import Event
 from . import forms
+from django.contrib.auth.mixins import LoginRequiredMixin
 
 __all__ = ['EventListView']
 logger = get_logger(__name__)
@@ -73,3 +74,18 @@ class EventUpdateView(AdminUserRequiredMixin, SuccessMessageMixin, UpdateView):
 
     def get_success_message(self, cleaned_data):
         return create_success_msg % ({"name": cleaned_data["title"]})
+
+class EventDetailView(LoginRequiredMixin, DetailView):
+    model = Event
+    context_object_name = 'event'
+    template_name = 'event/event_detail.html'
+
+    def get_context_data(self, **kwargs):
+        events_remain = Node.objects.exclude(assets=self.object)
+        context = {
+            'app': _('Event'),
+            'action': _('Event detail'),
+            'events_remain': events_remain,
+        }
+        kwargs.update(context)
+        return super().get_context_data(**kwargs)

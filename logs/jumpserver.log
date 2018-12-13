@@ -1753,3 +1753,44 @@ KeyError: 'name'
 2018-12-12 23:39:02 [signals_handler DEBUG] Receive django ready signal
 2018-12-12 23:39:02 [signals_handler DEBUG]   - fresh all settings
 2018-12-12 23:41:14 [log WARNING] Not Found: /users/user/7bcb68cc-7aaf-443b-a1c1-0cdf0597e73b/
+2018-12-13 00:16:41 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 00:16:41 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 00:16:41 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 00:16:41 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 00:29:06 [log WARNING] Not Found: /users/user/7bcb68cc-7aaf-443b-a1c1-0cdf0597e73b/
+2018-12-13 00:50:04 [signal_handler DEBUG] App shutdown signal recv
+2018-12-13 00:50:04 [signal_handler DEBUG] Clean need cleaned period tasks: []
+2018-12-13 08:41:37 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:37 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:41 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:41 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:45 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:45 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:51 [signals_handler DEBUG] Receive django ready signal
+2018-12-13 08:41:51 [signals_handler DEBUG]   - fresh all settings
+2018-12-13 08:41:54 [signal_handler DEBUG] App ready signal recv
+2018-12-13 08:41:54 [signal_handler DEBUG] Start need start task: [assets.tasks.update_assets_hardware_info_period, assets.tasks.test_admin_user_connectability_period, assets.tasks.test_system_user_connectability_period, terminal.tasks.delete_terminal_status_period, terminal.tasks.clean_orphan_session, terminal.tasks.clean_orphan_session]
+2018-12-13 08:41:55 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-13 08:41:55 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-13 08:41:55 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-13 08:42:09 [log WARNING] Not Found: /favicon.ico
+2018-12-13 09:10:06 [log WARNING] Not Found: /users/user/7bcb68cc-7aaf-443b-a1c1-0cdf0597e73b/
+2018-12-13 09:41:53 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-13 09:41:53 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-13 09:41:53 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-13 10:41:53 [tasks DEBUG] Period task disabled, update assets hardware info pass
+2018-12-13 10:41:53 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-13 10:41:53 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-13 11:41:53 [tasks DEBUG] Period task disabled, test system user connectability pass
+2018-12-13 11:41:53 [tasks DEBUG] Period task disabled, test admin user connectability pass
+2018-12-13 11:41:53 [tasks DEBUG] Period task disabled, update assets hardware info pass
