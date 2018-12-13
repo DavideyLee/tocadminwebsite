@@ -38,9 +38,9 @@ class Config:
     DB_ENGINE = os.environ.get("DB_ENGINE") or 'mysql'
     DB_HOST = os.environ.get("DB_HOST") or '127.0.0.1'
     DB_PORT = os.environ.get("DB_PORT") or 3306
-    DB_USER = os.environ.get("DB_USER") or 'nebulas'
-    DB_PASSWORD = os.environ.get("DB_PASSWORD") or 'nebulas'
-    DB_NAME = os.environ.get("DB_NAME") or 'nebulas'
+    DB_USER = os.environ.get("DB_USER") or 'tocadmin'
+    DB_PASSWORD = os.environ.get("DB_PASSWORD") or 'tocadmin'
+    DB_NAME = os.environ.get("DB_NAME") or 'tocadmin'
 
     # When Django start it will bind this host and port
     # ./manage.py runserver 127.0.0.1:8080

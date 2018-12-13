@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5811e63e-625d-4601-97ed-ea0d1768ed6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/assets/hands.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/assets/hands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/assets/templates/assets/admin_user_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/assets/templates/assets/admin_user_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/assets/templates/assets/asset_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/assets/templates/assets/asset_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/assets/templates/assets/system_user_asset.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/assets/templates/assets/system_user_asset.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/audits/signals_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/audits/signals_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/common/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/common/signals_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/signals_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/common/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/common/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/event/templates/event/event_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/event/templates/event/event_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/jumpserver/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/tocadmin/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/jumpserver/context_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/tocadmin/context_processor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/jumpserver/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/tocadmin/middleware.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/jumpserver/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/tocadmin/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/jumpserver/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/tocadmin/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/jumpserver/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/tocadmin/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/jumpserver/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/tocadmin/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/jumpserver/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/tocadmin/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/apps/locale/zh/LC_MESSAGES/django.po" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ops/celery/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ops/celery/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ops/inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ops/inventory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/static/js/jumpserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/static/js/jumpserver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/hands.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/hands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/models/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/templates/users/user_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/templates/users/user_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/templates/users/user_group_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/templates/users/user_group_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/users/views/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/views/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/config_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/static/js/jumpserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/static/js/jumpserver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jms" beforeDir="false" afterPath="$PROJECT_DIR$/jms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/clean_duplicate_user_groups.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/clean_duplicate_user_groups.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/sync_node.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/sync_node.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/upgrade.sh" beforeDir="false" afterPath="$PROJECT_DIR$/utils/upgrade.sh" afterDir="false" />
-    </list>
+    <list default="true" id="5811e63e-625d-4601-97ed-ea0d1768ed6f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -330,7 +293,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25136116" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.48820326" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16968085" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
