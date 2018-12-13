@@ -5,7 +5,7 @@ from django.db.models.signals import post_save, post_delete
 from django.dispatch import receiver
 from django.db import transaction
 
-from jumpserver.utils import current_request
+from tocadmin.utils import current_request
 from common.utils import get_request_ip
 from users.models import User
 from .models import OperateLog, PasswordChangeLog

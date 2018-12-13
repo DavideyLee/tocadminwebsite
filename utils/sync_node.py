@@ -8,7 +8,7 @@ if os.path.exists('../apps'):
 elif os.path.exists('./apps'):
 	sys.path.insert(0, './apps')
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "jumpserver.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tocadmin.settings")
 django.setup()
 
 from assets.models import Node, Asset

@@ -5,7 +5,7 @@ from django.db.models.signals import post_save, pre_save
 from django.conf import settings
 from django.db.utils import ProgrammingError, OperationalError
 
-from jumpserver.utils import current_request
+from tocadmin.utils import current_request
 from .models import Setting
 from .utils import get_logger
 from .signals import django_ready, ldap_auth_enable

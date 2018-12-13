@@ -114,7 +114,7 @@ def combine_seq(s1, s2, callback=None):
 
 
 def get_logger(name=None):
-    return logging.getLogger('jumpserver.%s' % name)
+    return logging.getLogger('tocadmin.%s' % name)
 
 
 def timesince(dt, since='', default="just now"):
@@ -161,7 +161,7 @@ def ssh_key_string_to_obj(text, password=None):
     return key
 
 
-def ssh_pubkey_gen(private_key=None, username='jumpserver', hostname='localhost', password=None):
+def ssh_pubkey_gen(private_key=None, username='tocadmin', hostname='localhost', password=None):
     if isinstance(private_key, bytes):
         private_key = private_key.decode("utf-8")
     if isinstance(private_key, string_types):
@@ -178,7 +178,7 @@ def ssh_pubkey_gen(private_key=None, username='jumpserver', hostname='localhost'
     return public_key
 
 
-def ssh_key_gen(length=2048, type='rsa', password=None, username='jumpserver', hostname=None):
+def ssh_key_gen(length=2048, type='rsa', password=None, username='tocadmin', hostname=None):
     """Generate user ssh private and public key
 
     Use paramiko RSAKey generate it.

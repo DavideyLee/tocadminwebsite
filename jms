@@ -136,7 +136,7 @@ def start_gunicorn():
     log_file = get_log_file_path(service)
 
     cmd = [
-        'gunicorn', 'jumpserver.wsgi',
+        'gunicorn', 'tocadmin.wsgi',
         '-b', bind,
         #'-k', 'eventlet',
         '-k', 'gthread',
@@ -219,7 +219,7 @@ def start_beat():
 
 def start_service(s):
     print(time.ctime())
-    print('Jumpserver version {}, more see https://www.jumpserver.org'.format(
+    print('Jumpserver version {}, more see https://www.tocadmin.org'.format(
         __version__))
     prepare()
 

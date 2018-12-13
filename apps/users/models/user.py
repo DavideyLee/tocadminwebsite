@@ -357,7 +357,7 @@ class User(AbstractUser):
     def initial(cls):
         from .group import UserGroup
         user = cls(username='admin',
-                   email='admin@jumpserver.org',
+                   email='admin@tocadmin.org',
                    name=_('Administrator'),
                    password_raw='admin',
                    role='Admin',
